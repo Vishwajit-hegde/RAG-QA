@@ -2,7 +2,7 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.unstructured import UnstructuredFileLoader
 from typing import Any, List
-from unstructured.cleaners.core import clean_extra_whitespace, group_broken_paragraphs
+#from unstructured.cleaners.core import clean_extra_whitespace, group_broken_paragraphs
 import PyPDF2
 import fitz
 from pymupdf_rag import to_markdown
@@ -46,9 +46,9 @@ def pdf_to_text(
     md_splitter = MarkdownTextSplitter(chunk_size=chunk_size,
                                        chunk_overlap=chunk_overlap)
     
-    if parse_func == 'unstructured':
-        docs = parse_pdf_unstructured(file_paths, text_splitter)
-    elif parse_func == 'pypdf':
+    # if parse_func == 'unstructured':
+    #     docs = parse_pdf_unstructured(file_paths, text_splitter)
+    if parse_func == 'pypdf':
         docs = parse_pdf_pypdf(file_paths, text_splitter)
     elif parse_func == "pymupdf":
         docs = parse_pdf_pymupdf(file_paths, md_splitter)
@@ -63,16 +63,16 @@ def pdf_to_text(
 
     return docs
 
-def parse_pdf_unstructured(file_paths, text_splitter):
-    docs = []
+# def parse_pdf_unstructured(file_paths, text_splitter):
+#     docs = []
 
-    for f in file_paths:
-        loader = UnstructuredFileLoader(
-            f, processors=[clean_extra_whitespace, group_broken_paragraphs]
-        )
-        docs.extend(loader.load_and_split(text_splitter=text_splitter))
+#     for f in file_paths:
+#         loader = UnstructuredFileLoader(
+#             f, processors=[clean_extra_whitespace, group_broken_paragraphs]
+#         )
+#         docs.extend(loader.load_and_split(text_splitter=text_splitter))
 
-    return docs
+#     return docs
 
 def parse_pdf_pypdf(file_paths, text_splitter):
     docs = []
