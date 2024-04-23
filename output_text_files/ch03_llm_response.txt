@@ -1,0 +1,18 @@
+  Q: What is the law of conservation of mass, and how does it relate to the concept of atoms and molecules?
+
+A: The law of conservation of mass states that mass can neither be created nor destroyed in a chemical reaction. This means that the total mass of a chemical reaction's reactants and products remains constant. This law was established by Antoine L. Lavoisier and Joseph L. Proust through experiments. The concept of atoms and molecules explains how the law of conservation of mass works. According to John Dalton's atomic theory, all matter is composed of small particles called atoms, which are indivisible and cannot be created or destroyed. When elements combine to form compounds, they do so in a ratio of small whole numbers, known as the law of definite proportions. This means that the mass of the reactants is equal to the mass of the products in a chemical reaction. Therefore, the law of conservation of mass is a direct result of the fact that atoms and molecules cannot be created or destroyed in a chemical reaction.
+SEPARATOR
+  Q: What is the concept of atomic mass, and how did Dalton's atomic theory propose it?
+
+A: The concept of atomic mass refers to the characteristic mass of an atom of an element, which is a measure of the amount of matter present in a single atom. According to Dalton's atomic theory, each element has a unique atomic mass, which is a fundamental property of the element. The theory proposed that the atomic mass of an element is the same for all atoms of that element, and that it is a constant value that can be used to identify the element. The theory also stated that the atomic mass of an element is a multiple of the atomic mass of hydrogen, which is taken as the reference point. The atomic mass of hydrogen is defined as 1 u (unified atomic mass unit), and the atomic mass of other elements is expressed in terms of multiples of u. For example, the atomic mass of carbon is 12 u, which means that a carbon atom has a mass of 12 times the mass of a hydrogen atom.
+
+Therefore, the answer is:
+
+A: The concept of atomic mass refers to the characteristic mass of an atom of an element, and Dalton's atomic theory proposed it as a fundamental property of each element, which is a multiple of the atomic mass of hydrogen.
+SEPARATOR
+  Q: What is the atomic mass unit (amu) defined as, and how is it used to express the relative atomic masses of elements?
+
+A: The atomic mass unit (amu) is defined as one-twelfth the mass of an atom of carbon-12, and it is used to express the relative atomic masses of elements by comparing their masses to the mass of one carbon-12 atom. The relative atomic mass of an element is the average mass of an atom of that element, relative to 1/12th the mass of one carbon-12 atom. This allows for the convenient expression of atomic masses as whole numbers or near whole numbers.
+SEPARATOR
+  Q: What is the chemical formula of magnesium chloride?
+A: The chemical formula of magnesium chloride is MgCl2.

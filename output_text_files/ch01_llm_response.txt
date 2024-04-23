@@ -1,0 +1,27 @@
+  Q: What is the physical nature of matter, and how does it relate to the particles of matter?
+
+A: The physical nature of matter is that it is made up of particles, which are constantly moving. These particles can be observed through various activities, such as dissolving salt or sugar in water, diluting a solution of potassium permanganate, and observing the spreading of an incense stick's smell. The particles of matter are continuous and can move freely, even in a solid substance like a block of wood. In addition, matter can change its state, such as when ice (a solid) melts into water (a liquid), and these changes can be observed and studied. Therefore, the physical nature of matter is characterized by the continuous movement of its particles, which can be observed and studied through various activities.
+SEPARATOR
+  Q: What is the characteristic of particles of matter that allows them to intermix on their own?
+
+A: The characteristic of particles of matter that allows them to intermix on their own is their kinetic energy. As the temperature rises, the particles move faster, which increases their kinetic energy, allowing them to intermix more easily.
+SEPARATOR
+  Q: What are the three states of matter and describe the properties of each state?
+
+A: The three states of matter are solid, liquid, and gas.
+
+Solids have a definite shape, distinct boundaries, and a fixed volume. They are rigid and maintain their shape when subjected to outside forces. Solids may break under force, but it is difficult to change their shape. Examples of solids include a pen, a book, a needle, and a piece of wooden stick.
+
+Liquids have no fixed shape but have a fixed volume. They take up the shape of the container in which they are kept. Liquids flow and change shape, so they are fluid. Examples of liquids include water, cooking oil, milk, juice, and a cold drink.
+
+Gases have neither a definite shape nor a fixed volume. They occupy the entire container in which they are kept. Gases are highly compressible and can be easily compressed to a smaller volume. Examples of gases include the air we breathe, oxygen, and carbon dioxide.
+
+It is important to note that solids, liquids, and gases can diffuse into each other. The rate of diffusion of liquids is higher than that of solids due to the fact that in the liquid state, particles move freely and have greater space between each other as compared to particles in the solid state.
+SEPARATOR
+  Q: What is the difference in the particle movement between solid, liquid, and gas states of matter?
+
+A: In the solid state, particles are closely packed and have a fixed position, with little to no movement. In the liquid state, particles are close together but are able to move past one another, and in the gas state, particles are widely spaced and are free to move in any direction, with high-speed random movement.
+SEPARATOR
+  Q: What is the latent heat of vaporisation, and how does it relate to the change in state of water from liquid to gas?
+
+A: The latent heat of vaporisation is the amount of heat energy required to change 1 kg of a liquid into gas at atmospheric pressure at its boiling point. For water, this temperature is 373 K (100oC = 273 + 100 = 373 K). The latent heat of vaporisation is the energy absorbed by the particles in the liquid state to break free from the forces of attraction and change into the vapour state. It is the extra energy that particles in steam have absorbed compared to water at the same temperature, which makes them have more energy than particles in the liquid state.

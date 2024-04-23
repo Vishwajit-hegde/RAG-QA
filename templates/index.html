@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload PDF</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload a PDF file and specify the number of questions:</h1>
+        <form action="/process" method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" style="display: none;" id="file-input">
+            <label for="file-input" class="upload-button">Upload PDF</label>
+            <input type="number" name="num_questions" placeholder="Number of questions">
+            
+            <!-- Option for question type -->
+            <label>Question Type:</label>
+            <select name="question_type">
+                <option value="verbal">Verbal</option>
+                <option value="multiple_choice">Multiple Choice</option>
+            </select>
+            
+            <input type="submit" value="Upload">
+        </form>
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>

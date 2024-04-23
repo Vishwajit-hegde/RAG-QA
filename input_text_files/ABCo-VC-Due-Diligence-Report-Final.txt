@@ -1,0 +1,1246 @@
+Date: April 22, 2024
+
+
+
+
+
+ ##### 
+
+#### Affiliate Marketing Industry
+#### Company Analysis
+# DUE DILIGENCE REPORT
+
+Prepared for: 
+
+#### Prepared by: Gopal Bhat
+
+###### 
+
+###### Keyoor Consulting
+
+###### g
+
+[gopal@keyoor.com](mailto:gopal@keyoor.com) 
+
+
+
+-----
+
+
+####### Table of Contents
+
+**_1._**  **_Executive Summary_** **_................................................................................................................................... 2_** 
+
+**_2._**  **_Methodology ............................................................................................................................................ 2_** 
+
+**_3._**  **_Summary of Opinions ................................................................................................................................ 2_** 
+
+**_4._**  **_Business Model Overview_** **_.......................................................................................................................... 3_** 
+
+**4.1.**  **Discovered Facts ............................................................................................................................... 3** 
+
+**4.1.1.**  **Founding History** **........................................................................................................................... 3** 
+
+**4.1.2.**  **Current Scale of the Company ....................................................................................................... 3** 
+
+**4.1.3.**  **User Metrics ................................................................................................................................. 3** 
+
+**4.1.4.**  **Company Culture .......................................................................................................................... 3** 
+
+**4.1.5.**  **Key Business Metrics** **..................................................................................................................... 4** 
+
+**4.2.**  **Opinions and Recommendations – Business Model & Management ................................................... 4** 
+
+**4.2.1.**  **Business Model** **............................................................................................................................. 4** 
+
+**4.2.1.1.**  **Cohort Analysis** **............................................................................................................................. 5** 
+
+**4.2.1.2.**  **Growth Plan Review...................................................................................................................... 6** 
+
+**4.2.1.3.**  **Unit Economics of the Company .................................................................................................... 8** 
+
+**4.2.2.**  **Management Team** **..................................................................................................................... 10** 
+
+**_5._**  **_Product and Technology Overview_** **_........................................................................................................... 11_** 
+
+**5.1.**  **Discovered Facts ............................................................................................................................. 11** 
+
+**5.1.1.**  **Product Overview ....................................................................................................................... 11** 
+
+**5.1.2.**  **Customer Support** **....................................................................................................................... 12** 
+
+**5.1.3.**  **Technology Stack Overview** **......................................................................................................... 12** 
+
+**5.2.**  **Opinions and Recommendations – Product & Technology** **................................................................ 13** 
+
+**_6._**  **_Sales and Marketing ............................................................................................................................... 14_**
+<CHUNK_SEPARATOR>
+**6.1.**  **Discovered Facts ............................................................................................................................. 14** 
+
+**6.1.1.**  **Sales Capability Overview ........................................................................................................... 15** 
+
+**6.1.2.**  **Marketing Capability Overview ................................................................................................... 15** 
+
+**6.2.**  **Opinions and Recommendations – Sales & Marketing** **...................................................................... 15** 
+
+**_7._**  **_Competitive Analysis_** **_............................................................................................................................... 16_** 
+
+**7.1.**  **Competitive Landscape ................................................................................................................... 16** 
+
+**7.2.**  **Opinions and Recommendations based on Competitive Analysis...................................................... 17** 
+
+**7.2.1.**  **SWOT Analysis ............................................................................................................................ 18** 
+
+
+
+ ##### 
+
+
+
+-----
+
+
+##### 1.  Executive Summary
+
+This report is specifically prepared for VC Capital to aid in the due diligence of ABCo.’(Company) business model,
+product readiness and product market fit. Due diligence is conducted with the perspective of affiliate marketing
+industry with Cost Per Action (CPA) business model where a company acquires and retains consumer loyalty
+through cashback and channels the consumer traffic to merchants to get a commission paid for the actual sales
+that happen on the merchant store.
+
+Please note that this due diligence report is for information purposes only. You should not construe any such
+
+
+|information or other material provided here as|Col2|legal, investment, financial, or other advice. Nothing contained in|Col4|
+|---|---|---|---|
+|this document constitutes a solicitation, recommendation, endorsement, or offer from Keyoor Consulting to invest||||
+|or seek financial commitment.||||
+
+
+##### 2.  Methodology
+
+Due diligence is conducted with a pre-set questionnaire shared with ABCo. team, followed by Q&A sessions
+covering the areas of, business model, growth strategy, sales & marketing and  product technology overviews.
+There were four due diligence meetings held between Keyoor Consulting, VC Capital and ABCo. management.
+
+**Attendees:**
+
+-  Gopal Bhat - Keyoor Consulting
+
+-  Konstantin– VC Capital
+
+-  Nikita– VC Capital
+
+-  Igor– Founder & CEO, ABCo.
+
+-  Zahar– CRO, ABCo.
+
+-  Julia– Sales & Marketing, ABCo.
+
+-  Pavel– CTO, ABCo.
+
+-  Svetlana - CFO, ABCo.
+
+Most of the opinions in the document are based on the information received in these Q&A Sessions. Any
+additional information or data contrary to what was discussed in these sessions may warrant an update to the
+following opinions.
+
+##### 3.  Summary of Opinions
+
+_Table-1: Maturity rank for different areas of the business_
+
+
+|Col1|Pillars of Business|Col3|Col4|Maturity Rank|Col6|Col7|Opinion summary|Col9|Col10|
+|---|---|---|---|---|---|---|---|---|---|
+||Business Model|||1|||Mature, proven and scalable|||
+|Management Team 2 Passionate team with vision. Can use bit more help||||||||||
+||Unit Economics|||3|||Good trend so far. Continue to improve|||
+|Sales & Marketing 4 Needs investments above the projected plan||||||||||
+||||||||Needs significant improvements|||
+||Product & Technology|||5|||Needs significant improvement|||
+|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.||||||||||
+<CHUNK_SEPARATOR>
+Pillars of business are assessed in the context of affiliate marketing industry and ranked based on the relative
+maturity level. Business model of the company is most mature with proven success and scalable across the
+geographies. Management team is well aligned with the market demand and has a vision to meet both consumer
+expectations and merchant needs. Unit economics of the company are good but can be improved with right
+investments into Sales and Product development. Sales functionality needs improvement with an investment
+proportional to the marketing investment. Product and Technology areas need significant improvements to create
+an ecosystem of products around price sensitive shopping, supported by a secure and scalable tech-platform.
+
+
+
+-----
+
+
+##### 4.  Business Model Overview
+
+###### 4.1.  ###### Discovered Facts
+
+Facts gathered from the company are presented below as received.
+
+####### 4.1.1.  Founding History
+
+ABCo. was founded in 2014 with $150K seed round investment as a comparison-shopping experience with CPA
+revenue model, but eventually evolved into a cashback loyalty-based shopping program. Company had a second
+round of funding of $3M followed by $1.5M in convertible notes in 2020. Company is running with a negative
+burn-rate of $150K - $200K/month and seeking additional funds for enhanced marketing, geographic expansion
+and to create an ecosystem of product offerings for the cost-sensitive shoppers.
+
+####### 4.1.2.  Current Scale of the Company
+
+Currently, the company is tracking between $700 to $750M GMV for the trailing twelve months(ttm) and a
+projected ~$1B GMV for the year 2021. Company tracked around $40M in revenue for the ttm and a target of
+$50M in 2021. Gross margin (GM) is 43% while 57% is distributed as loyalty cashback.
+
+_Graph-1: Revenue growth and distribution_
+
+
+
+ABCo. claims that the company is a dominant player with 70% market share of this business space in Russia and
+Ukraine compared to the competition. Company is targeting 2x GMV growth YOY for the next 3 years with a high-
+end projection of $22B or a low-end estimate of $9B in 2026.
+
+####### 4.1.3.  User Metrics
+
+ABCo. experienced a good increase in both number of registered users and active users.
+
+_Graph-2: User stats_
+
+
+
+*Active users are those who visited the site and performed some activity in the reporting period
+
+####### 4.1.4.  Company Culture
+
+
+
+**Company’s vision:**
+
+“Create an ecosystem of shopping for price sensitive customers”
+
+**Company’s immediate mission:**
+
+“Capture 50% of the affiliate marketing market-share in the currently underserved markets and become #1”
+
+
+
+-----
+
+
+**Company’s philosophy:**
+
+“Best product experience is the best marketing”
+
+####### 4.1.5.  Key Business Metrics
+
+**__** _(Ref: Interview notes and_ _Appendix-B_ _)_ **__**
+
+_Table-2: Key metrics_
+
+
+|Col1|Metric|Col3|Col4|Value|Col6|
+|---|---|---|---|---|---|
+||User base|||20 M||
+|Merchant Partners|||3000+|||
+||GMV|||~$1B forecasted for 2021||
+|GMV (ttm)|||$700-$750M|||
+||Net revenue growth Q2 ’20 → Q2 ‘21|||3x||
+|Average commission rate|||5% - 5.5% range|||
+||Revenue (ttm)|||$40M||
+|Revenue – 2021 projected|||$50M|||
+||Average GM|||43%||
+|EBITDA margin|||0% (may be negative)|||
+||Cash burn rate (current)|||-$150K to -$200K /month||
+|CAC / Cost per FTB in 2021**|||$8.60/ftb (Factors making up this cost are not provided)|||
+||LTV / CAC ratio|||2.7x measured over 3 years||
+|MAU increase**|||May ’21 = 7.8%, Jun ’21 = 10%|||
+||Top Merchant|||Ali Express in Russia||
+|Projected cashback penetration in target markets|||3% (Currently <1%)|||
+||App Installs|||Android: 5M, IOS: 1.5M, Browser extension: 1M||
+|Market sizing (as presented)|||3% of $1.44T = $43B by 2026|||
+
+
+*2020 Data is skewed and an anomaly due to COVID related impact. Hard to use that data for trend analysis.
+
+** MAU increase shows a positive trend and is an indication of improved monetization capabilities for the registered users.
+<CHUNK_SEPARATOR>
+###### 4.2.  ###### Opinions and Recommendations – Business Model & Management
+
+####### 4.2.1.  Business Model
+
+**Business Model Maturity: Rank #1 –** **Mature, proven and scalable** ****
+
+Affiliate marketing business with cashback loyalty program is proven to be a great performance marketing tool in
+established markets based on successful examples. Ebates became a successful leader in the North American (both
+USA and Canada) marketplace and got acquired by Japanese e-commerce leader Rakuten for $1B. Honey, a
+successful browser-extension based shopping rewards platform got acquired by Paypal for $4B. Based on publicly
+available information, Ebates was profitable with positive cashflow when filed for S-1 before getting acquired.
+Rakuten’s Internet Services business unit, which includes Rakuten Rewards (formerly Ebates) is [showing a profit](https://global.rakuten.com/corp/investors/assets/doc/documents/21Q2tanshin_E.pdf) for
+the six months period ending in June 30, 2021. This business model has potential for a very strong customer
+
+
+
+-----
+
+
+retention when executed well and can create a network effect where merchants are more likely to deal with
+affiliate marketing sites with larger userbase.
+
+####### 4.2.1.1.  ####### Cohort Analysis
+
+Cohort analysis ( _Appendix-C_ ) of buyers registered between 2018 through 2021 and respective GMV spend per buyer
+shows that there was a **degradation of GMV per buyer** in 2020. This degradation is attributable to COVID-19
+pandemic. But further analysis shows that there is a positive trend in cohort spend through 2021.
+
+Please note that the data provided by ABCo. is till Sep. 23, 2021. This data is projected to Q4 ’21 based on the
+estimated revenue of $50B for 2021 ( _Appendix-C_ ). 
+
+_Graph-3: Cohort analyses_
+
+GMV/Buyer for Cohorts (CIS)
+
+$500
+
+$396 $424
+
+$383
+$
+
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||$298 $262|||||||||||||||
+|||||||||||||||||||
+||||$189|||||||||||||||
+|||||||||||||||||||
+|||||||||||||||||||
+|||||||||$131||||||||||
+|||||||||||||||||||
+|||||||||||||||||||
+|||||||||||||||||||
+
+
+$-
+
+2018 2019 2020 2021
+
+2018 2019 2020 2021
+
+ 
+
+
+
+
+
+GMV/Buyer for Cohorts (International)
+
+$800
+
+$617
+$594 $544 $600
+
+$479
+
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||
+|||||||||||||||||
+||$174|||||$192||||||||||
+|||||||||||||||||
+|||||||||||||||||
+
+
+$-
+
+2018 2019 2020 2021
+
+2018 2019 2020 2021
+
+ 
+
+Company is able to receive an average commission rate between 5% - 5.5% at this time. This **can be as high as 8%** 
+when the market is fully established, and company is able to uplift the merchant spend on affiliate marketing
+channels. This is a significant opportunity for the company to grow and requires investment in sales, analytics and
+industry lobbying.
+
+
+
+-----
+
+
+_Graph-4: CAC for different businesses_ __ _(Source: DemandJump, 2019)_
+
+###### Customer Acquisition Cost (By Industry)
+
+Affiliate Marketing
+
+$395
+
+$400
+$450
+
+
+|$315|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|$303|||||||||||||||
+|$213|||||||||||||||
+|$175 $182|||||||||||||||
+|$141|||||||||||||||
+||||||||||||||||
+|$83 $98|||||||||||||||
+|$22|||||||||||||||
+||||||||||||||||
+
+
+$0
+
+
+
+Current CAC is around $8.60/ftb with a payback period of around 1 year. This is relatively lower compared to
+$21/ftb in established markets, but payback period matches 1year based on the information provided.
+
+**Notes on the industry:**
+<CHUNK_SEPARATOR>
+Analysis of cohort spend, payback period, combined with current ecosystem of product portfolio suggests that
+there is a significant opportunity to increase the LTV of an acquired customer **up through the conversion pipeline** .
+This is achievable by increasing the customer engagement with an ecosystem of product offerings, personalization
+& shopping discovery tools.
+
+_Picture-1: Shopping conversion funnel_
+
+##### Discover
+
+##### Find ****
+
+##### Convert
+
+
+
+
+####### 4.2.1.2.  ####### Growth Plan Review
+
+This cashback business model has a characteristic of fast growth till certain size of the market and hits an inflection
+point where company has to work with merchants to increase their budget for this marketing channel. This
+challenge should be mitigated early on with a combination of product strategy, sales team maturity, marketing and
+industry leadership driven by specific **conferences and education** . Company should also be aware that there can
+be country level regulations which may classify this business model as a possible pyramid scheme or kick-back
+model and prevent further innovation in loyalty models.
+
+
+
+-----
+
+
+There are few major assumptions with respect to projected growth _(Table-3)_ :
+
+-  Cashback loyalty market will grow to 3% of the ecommerce in the addressable market (~$1.4T)
+
+-  ABCo. will be able to capture #1 position in these markets with 50+% of market share
+
+-  Commission rate will remain around 5.5%
+
+_Table-3: Growth, P&L Projections (as provided by ABCo.)_
+
+Possible industry
+
+inflection point
+
+
+
+_Table-4: Growth P&L Projections (Recommended scenario in_ _$MM_ _)_
+
+
+|2021 2022 2023 2024 2025 2026 GMV $916 $2,076 $4,388 $8,379 $14,843 $22,206 Instead of focusing on purely higher-cashback driven commission % 5.5% 5.5% 5.8% 6.0% 6.3% 6.5% growth, increase the budget for product innovation & sales development so that the Net Revenue $50 $114 $252 $503 $928 $1,443 company can establish the market for higher commission margin % 43% 40% 40% 42% 35% 38% Gross Profit $22 $46 $101 $211 $325 $548 Marketing $14 $40 $76 $157 $232 $361 marketing % 28.0% 35.1% 30.0% 31.2% 25.0% 25.0% R&D $2 $9 $13 $18 $23 $29 r&d % 4.0% 8.0% 5.0% 3.5% 2.5% 2.0% SG&A $7 $13 $20 $23 $28 $36 sg&a % 14.0% 11.0% 8.0% 4.5% 3.0% 2.5% Profit (Loss) -$2 -$16 -$8 $14 $42 $123|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||2021|||2022|||2023|||2024|||2025|||2026|||
+|GMV|||$916|||$2,076|||$4,388|||$8,379|||$14,843|||$22,206|||
+|commission %|||5.5%|||5.5%|||5.8%|||6.0%|||6.3%|||6.5%|||
+|Net Revenue|||$50|||$114|||$252|||$503|||$928|||$1,443|||
+|margin %|||43%|||40%|||40%|||42%|||35%|||38%|||
+|Gross Profit|||$22|||$46|||$101|||$211|||$325|||$548|||
+|Marketing|||$14|||$40|||$76|||$157|||$232|||$361|||
+|marketing %|||28.0%|||35.1%|||30.0%|||31.2%|||25.0%|||25.0%|||
+|R&D|||$2|||$9|||$13|||$18|||$23|||$29|||
+|r&d %|||4.0%|||8.0%|||5.0%|||3.5%|||2.5%|||2.0%|||
+|SG&A|||$7|||$13|||$20|||$23|||$28|||$36|||
+|sg&a %|||14.0%|||11.0%|||8.0%|||4.5%|||3.0%|||2.5%|||
+||Profit (Loss)|||-$2|||-$16|||-$8|||$14|||$42|||$123||
+
+
+Based on the marketing spend plan ( _Table-3_ ), there is a good chance that the projected top-line revenue is
+achievable till 2023, but there should be a proportional increase in sales related spend in order to increase
+merchant commission on company’s platform to convert the acquired customer (paid through marketing). Current
+growth projections are dependent on increased cashback and more marketing. This strategy will create an industry
+inflection point where overall cashback loyalty market itself may start becoming flat. To overcome this, industry
+leaders like ABCo. will need to invest in sales and industry establishment.
+<CHUNK_SEPARATOR>
+It is highly recommended that **Sales budget should be increased** to attract merchants on to platform and establish
+the industry in the emerging markets. Investment like this will involve, strengthening of the sales team, improved
+analytics capabilities, industry conferences and regulatory lobbying. This increased investment will be paid off
+through increased marketing commission rates by merchants and stronger network effect.
+
+
+
+-----
+
+
+Parallelly, increased product development and technology investments will create a differentiator (moat) that will
+make it hard for competitors to copy. This increased investment in product innovation will lead to additional
+revenue streams that create an upward trend in commission percentage.
+
+####### 4.2.1.3.  ####### Unit Economics of the Company
+
+**Unit Economics Maturity: Rank #3 - Good trend so far. Continue to improve.**
+
+_(Ref:_ Appendix-C _– Section: Revenue per user calculation)_
+
+_Graph-5: Revenue per active user_
+
+
+|Unit Economics - Revenue per User $1.50 $1.24 $1.00 $0.97 $1.00 $0.69 $0.75 $0.60 $0.47 $0.46 $0.50 $0.30 $0.34 $0.00 Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021 Revenue/Reg User Revenue/Active User|17% Average Improvement|
+|---|---|
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|$1.24|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||
+||||||||$0.46||||$0.60||||
+||||||||||||||||
+||||||||||||||||
+||||||||||||||||
+
+
+$0.00
+
+Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021
+
+Revenue/Reg User Revenue/Active User
+
+****
+
+**Revenue per active user** analysis, based on the data provided so far shows a continuous improvement over five
+quarters. Part of this may be skewed by the dip in 2020 due to COVID-19, but the improvement of 17% quarter
+over quarter with 28% improvement between Q1 to Q2 of 2021 shows an increased engagement of the customers
+on the platform and is a very healthy trend for the company. It is hard to establish ideal number for the business
+metric ‘Revenue/User’ as it continuously changes based on the macro economic conditions, geography, company’s
+willingness to balance the investment between acquisition vs. activity etc. Important thing to notice here is the
+positive trend, and keep up with that momentum by balancing the investments between acquisition, activity and
+monetization. Management should focus on continuous improvement of this metric through ‘product innovation’
+and ‘cashback rate to activity correlation’ analysis.
+
+Further work on e-commerce market sizing for the target geography and cashback penetration can lead to an ideal
+revenue per user metric in a fully established market. The market readiness is too early for such an analysis.
+Recommended methodology to accomplish such a number:
+
+(( )/( ))
+
+
+|RPU = (|(|𝐸𝑀|∗|𝐶𝐵𝑃|)|/|(|𝐸𝑃|∗|𝐴𝑃|)|)|∗|𝑀𝑆𝐶|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+
+(( )/( ))
+
+
+
+-  EP: Ecommerce using population (number)
+
+-  RPU: Revenue per user
+
+-  AP: Activity percent rate ( % )
+
+-  EM: Ecommerce Market size of the geography in consideration ($ size)
+
+-  MSC: Market share Capture goal for the company
+
+-  CBP: Cashback affiliate marketing Penetration into  the ecommerce market ( % )
+
+_Graph-6: FTBs vs. Activity of Existing Users_ _(_ Appendix-C _)_
+
+
+
+-----
+
+
+Expected Q4
+
+Seasonality
+
+###### FTBs vs. Active Existing Users
+
+6000000
+
+5000000
+
+4000000
+
+3000000
+
+2000000
+
+1000000
+
+Critical inflection point
+
+where existing user activity
+
+0
+
+is more than the newly
+
+Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021
+
+acquired users
+
+FTBs Existing Active Users
+
+
+
+Simple graphical analysis of **FTB activity vs. existing user activity** reveals that the company made a significant
+transition in engaging existing users in Q1, 2021. This trend further re-iterates the healthy trend of increased
+activity of the existing users, which will lead to a sustained growth and more ROI on the CAC.
+
+_Graph-7: Trend of existing user activity_
+<CHUNK_SEPARATOR>
+|Percent of active existing registered users 40% 34% 33% 30% 24% 23% 22% 20% 10% 0% Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021|Healthy QoQ increase post pandemic related slowdowns|
+|---|---|
+
+
+
+
+Further analysis of trend in activity of existing users reveals that there is a 55% increase in the activity rate of
+existing users between Q2 2020 and Q2 2021. This is a very good indication but too high because of low activity
+rate back in Q2 2020 due to COVID. But, the activity rate between Q1 2021 and Q2 2021 is still showing a positive
+change, bringing more confidence in the healthy trend of user engagement.
+
+**LTV analysis**
+
+Methodology used for LTV contribution calculation for an acquired user:
+
+Keyoor Consulting, proprietary – Do not publish or distribute
+
+
+|LTVc = (|𝑁 𝐺𝑀∗𝐹𝑌𝑅∑ (1 + 𝑟)𝑘−1(1 + 𝑅)𝑘−1 𝑘=1|) − 𝐶𝐴𝐶|
+|---|---|---|
+
+|(|1|+|𝑟)|𝑘−1|(|1|+|𝑅|)|𝑘−1|
+|---|---|---|---|---|---|---|---|---|---|---|
+
+
+( ∑( ) ( )
+
+)
+
+𝑘1
+
+
+|𝑘|=|1|
+|---|---|---|
+
+
+-  LTVc = Lifetime Value contribution over N measuring periods
+
+-  FYR = First Year/Period Revenue (FYR = GMV*average commission rate)
+
+-  GM = Gross Margin
+
+-  N = # of periods in consideration
+
+-  r = average commerce activity degradation value for the cohorts in the measured period (negative percentage)
+
+-  R = average increase in spend per active cohort for the measured period (positive percentage, ideally)
+
+-  CAC = Onetime customer acquisition cost
+
+Values for these business metrics are detailed in _Appendix-C_ .
+
+__
+
+_Disclaimer_ : This methodology uses the supplied data along with some projected numbers based on historical trends. Any changes to those
+numbers presented by ABCo. will alter the projections.
+
+_Graph-8: Year LTV Contribution projections_
+
+
+
+
+
+-----
+
+
+###### 5 Year LTV / User Contribution
+
+**$1B+ LTV**
+
+$3,500
+
+**Contribution over 5**
+
+**years for an**
+
+$2,771 $2,867 $3,000
+
+**i** **d** **b**
+
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+|||||||||||||||||
+
+
+$0
+
+Average GMV
+
+Average GMV
+
+Average GMV
+
+Average GMV
+
+Average GMV
+
+Total GMV in 5
+
+Revenue LTVc
+
+for Y1
+
+for Y2
+
+for Y3
+
+for Y4
+
+for Y5
+
+yrs
+
+CIS INT
+
+
+
+LTV contribution over 5-year period for an acquired FTB shows a healthy $57 to $59/user range between CIS and
+INT users. This will amount to a $1B+ value for the already acquired userbase of 20M during this period. More
+users acquired during this period will also significantly uplift the revenue of the company year over year.
+
+Overall, unit economics analysis of the company shows a very healthy trend in post-pandemic economy with all
+indicators pointing towards a strong growth. Business KPIs should be established with quarterly reporting on these
+metrics to ensure that the trend continues in the right direction. Any variation of these trends need to be analyzed
+in a timely manner and remediation measures should be taken.
+
+The linearity of the model can hit an inflection point as discussed in Section 4.2.1.2 .
+
+####### 4.2.2.  Management Team
+
+**Management Team Maturity: Rank #2 – Passionate team with vision; Bring product/technology and**
+**advisory leadership**
+
+_Picture-2: Management team structure_
+
+ 
+
+ABCo. leadership team seemed very energetic and passionate about the business with keen observation capability
+to understand what works in this market space and clarity on prioritization of different revenue models and
+product features.
+
+
+
+-----
+<CHUNK_SEPARATOR>
+Current management structure has both CEO and Chief Product Officer roles being handled by the same person.
+This may become a bottleneck to bring continuous product innovation when CEO has to focus more on growth and
+GTM in new geographies. **Introduce Chief Product Officer** role into management structure to handle both Product
+and Technology to bring continuous attention to product feature maturity along with implementation of a
+scalable, repeatable and secure technology platform.
+
+Geographic expansion and growth plan requires guidance from seasoned executives in this business space and
+advisors to avoid pitfalls in the new markets. It is highly recommended that company should bring someone with
+the **industry experience at board level advisory role** to help the current executive management with the growth
+plan.
+
+##### 5.  Product and Technology Overview
+
+###### 5.1.  ###### Discovered Facts
+
+Product and Technology related facts are gathered through questionnaire responses and meetings with respective
+teams.
+
+####### 5.1.1.  Product Overview
+
+ABCo. has a strong vision to create an ecosystem of product offerings to appeal to price sensitive shoppers.
+Current portfolio of offerings include:
+
+-  Consumer perspective:
+
+`o`  Cashback shopping
+
+`o`  Shareable cashback link for referral
+
+`o`  Refer a friend bonus
+
+`o`  Browser extension based – never miss a cashback experience
+
+`o`  Metallic loyalty levels to earn additional cashback (Bronze, Silver, Gold)
+
+`o`  LetyClub – forums
+
+-  Merchant / Advertiser perspective:
+
+`o`  Sales uplift through ABCo. affiliate marketing channel
+
+`o`  _On product roadmap_ : Merchant self-service portal that can be used by marketing managers of merchant companies
+to get visibility into the performance of the dollars spent on ABCo..
+
+-  Major product features:
+`o`  Uniform consumer experience between Mobile App (IOS and Android), Mobile Web, Desktop Web and Browser
+extension
+
+`o`  Android app installs are around 5M while IOS app installs stand at around 1.5M
+
+`o`  Browser extension can do product price comparison
+
+▪  Price monitoring and rating function
+
+▪  Seller reliability check
+
+▪  Browser extension has around 1M install base
+
+-  Payment systems supported:
+`o`  Paypal
+
+`o`  BankCard
+
+`o`  Amazon Gift card (India)
+
+-  Top marketplace categories are:
+`o`  Electronics: 20%
+
+`o`  Fashion: 20%
+
+-  Major product features on the roadmap:
+`o`  Installments: Micro-finance to enable buy now, pay later
+
+`o`  Influencer account
+
+`o`  Advertising account  OR Merchant self-service
+
+`o`  Coupons, Promo-codes & Deals
+
+`o`  Price comparison
+
+`o`  Price Monitoring
+
+`o`  Virtual Bank Card
+
+`o`  Offline cashback
+
+
+
+-----
+
+
+ABCo. currently integrates with major affiliate networks including Admitad, Rakuten and CJ.  Merchant billing,
+cashback reconciliation and back-office automation is in place. Current statistics show that  20%  of the shoppings
+are getting declined by the merchants. It usually takes 30-60 days to get to approved status so that users can
+withdraw money. The reconciliation latency depends on the shop as several shops can send the confirmation
+within seconds, some within an hour and some shops are on a 24hour cycle to exchange the shopping conversion
+data. Once cashback is approved, users can decide to withdraw money on demand.
+
+Usage of A/B test process to qualify product features has been very light. Though user activity history is available,
+it is not being used to create a better personalized experience using A/B test as of now. Even the mobile pushes
+and email campaigns are mostly manual and there is a lot of opportunity for personalization and automation to
+trigger active engagement of the users.
+<CHUNK_SEPARATOR>
+Current fraud prevention is based on anomaly detection of activity parameters such as IP address and account
+history. Detection of any anomalies trigger alerts to engage human fraud administrators to prevent any leakage in
+cashback. Though there are return frauds after receiving cashback, the problem is not prevalent.
+
+Consumer privacy (such as GDPR) measures are visited by the management using a checkbox approach, but no
+formal audit & compliance program is implemented.  Also, security compliance standards are not implemented
+with proper audits at this time. There is a significant scope for improvements in this area of maturity.
+
+There are no agreements with any payment providers or credit card networks at this time to warrant PCI level
+security audit requirements. But to enhance product experience by including offerings such as offline cashback
+and/or checkout, significant investment in PCI DSS compliance certifications will be needed. Virtual card
+agreement is in place with a bank in Russia, which may warrant PCI level assessment and attestation sooner than
+later.
+
+Current platform is not designed to enable white-labeling of the shop-fronts by any other loyalty programs such as
+airlines or credit cards. As application is designed with API based integrations between services, there is a future
+opportunity to create a **cashback platform as a service (CPaaS)** offering.
+
+####### 5.1.2.  Customer Support
+
+Current customer support functionality has certain level of automation to find answers to ‘where is my cashback’
+with 80-90% handled automatically while 10-20% going to a Zendesk based customer support team to manually
+address it. Based on the information provided, company is not using customer support as a strong customer
+touchpoint where loyalty and activity can be significantly influenced. As of date, ABCo. is not engaged in measuring
+customer satisfaction using any proven frameworks such as NPS. Cashback loyalty can be a high NPS business
+model if executed well. This proven satisfaction score will pay well while negotiating higher commission with
+merchants.
+
+_Picture-3: NPS Methodology_
+
+NPS is a popular market research metric used to measure the
+likelihood that a customer would recommend the service to
+a friend, colleague or family member. This is a simple to
+conduct survey and can be initiated at the end of a customer
+support touchpoint to ensure maximum response
+
+
+
+####### 5.1.3.  Technology Stack Overview
+
+_Picture-4: Tech stack_
+
+
+
+-----
+
+
+|Col1|Col2|, GB Caching End Layer Application /128 Front res plugin DatabaseDB ize co S DB 48 DB AppBrowser : DB – Storage risks .5TB improvement in Significant Ma 1 as identified and with for Legend Servers Areas scope Areas Android DB hysical is NoSQL s P aly App IOS An I AP / roker ack B Containers Message Hosting t S ce Experien Control Pen-tests Observability logy Compliance & Customer Access 3Party Security rd Techno datacenter more Pipelines to with framework cost be time up can built infrastructure and on and ground environments is dependency stack scalability stack Compliance eveloperCI/CD from software technology facility Cloud built in to Containerized and is be due free in colocation gap to effective efficient Security Current market mostly needs Major D • • • •|
+|---|---|---|
+
+
+Above diagram ( _Picture-4_ ) gives a pictorial view of the technology stack _(_ _Appendix-A_ _)_ . Current technology stack is mostly
+built with free software, which makes it cost efficient and great fit for finding the right developer talent. The
+software stack is extensible, making it easy for product team to try out new features in an agile way.
+
+Technology team is projecting a team growth of up to 70 engineers. To enable productivity of this level of staffing
+capacity, team will need develop fully automated, self-service cloud environment provisioning capabilities.
+<CHUNK_SEPARATOR>
+Current Analytics database is nearly 7 TB in size and needs a futuristic architecture plan to enable more data-
+driven approach to product personalization and targeting.
+
+Infrastructure layer of the tech-stack is hosted in a colocation facility making it less efficient to get global
+distribution, scalability and compliance with local regulations for geographical data affinity.
+
+There is not much attention paid to compliance & security areas of the technology stack. This creates data-leak risk
+and potential legal obligations when it comes to consumer privacy regulations like GDPR. Also, lack of clarity on
+attack (DDoS, OWASP - SQL injection, XSS) prevention systems may lead to prolonged website outages and data
+leak in case of any malicious activity by bad actors.
+
+A quick external scan _(_ _Appendix-D_ _)_ below shows significant scope for improvement with security and website
+performance using CDN.
+
+These kind of problems can be easily fixed, by implementing some of the recommended security programs below.
+
+_Picture-3: ABCo. web page test_
+
+_More on OWASP test:_ 
+[https://owasp.org/www-project-](https://owasp.org/www-project-web-security-testing-guide/)
+[web-security-testing-guide/](https://owasp.org/www-project-web-security-testing-guide/)
+
+
+
+###### 5.2.  ###### Opinions and Recommendations – Product & Technology
+
+**Product & Technology Maturity: Rank #5 – Needs significant improvements**
+
+Though ABCo. is on the right track for product innovation with a philosophy that “Best product experience is the
+best marketing”, there is a significant scope for improvements in the product portfolio. Company’s vision to create
+an ecosystem for smart shopping is in-line with the market opportunity and the ambition to capture top place in
+the targeted geographies. Current product offerings are tailored to capture the existing affiliate marketing budget
+
+
+
+-----
+
+
+of the merchants, but not positioned to expand their budget beyond current levels of spend. Future vision of
+adding merchant self-service portal combined with a strong sales and marketing team will address this gap and has
+the opportunity to expand the market beyond the current size.
+
+From the perception of the price sensitive shopper, ABCo. is positioned well with cashback-based loyalty and
+service stickiness with metallic (Bronze, Silver, Gold) tiers of memberships.
+
+From the perception of an advertiser, ABCo. is a great user acquisition and revenue uplift channel. Pay for
+performance model works well for affiliate marketing managers within merchant organizations to show quick
+results of their marketing investment.
+
+Explore following product platform enhancements apart from what is already on the roadmap.
+
+**Consumer facing features and Additional Revenue Streams:**
+
+-  Enable early cashback for FTBs to get the confidence and make the experience sticky.
+
+-  Pay cashback through store gift cards.
+
+-  Experiment: Advertisement (CPD & CPC model) on the platform.
+
+-  Pay cashback using crypto-currency to appeal to that niche class.
+
+-  _Customer support:_ Create a program to get the **NPS score** to assess the customer satisfaction on a periodic basis and
+continuously improve the score from one measuring period to another.
+
+`o`  Use NPS score as a differentiator to negotiate better commission with merchants.
+
+**Merchant facing features:**
+
+-  Develop a self-service merchant portal with monetization capabilities such as bidding on keywords, time-slots and
+homepage placements. This portal should enable real-time analytics for merchants to see conversion uplift when they
+increase the cashback.
+
+**Business to Business Opportunity:**
+
+-  Current platform can be extended to enable white-labeling of the shop-fronts by any other loyalty programs such as airlines
+or credit cards. This can be a future revenue stream if the platform is designed with microservices based multi-tenant
+architecture.
+
+**Internal capabilities:**
+<CHUNK_SEPARATOR>
+-  Develop and implement A/B test capabilities for trying out quick iterations of different product experiences to qualify
+consumer acceptance or to fail-fast and move on.
+
+-  Improve fraud detection based on analytics and stronger rule-based workflows for cashback approval.
+
+-  Implement privacy (GDPR / CCPA) & Security (ISO 27001) controls and get certifications. Lack of this and any small
+security issue may spoil the reputation of the company and the cashback industry as a whole. Not having security as a
+culture within the company is a major risk in a privacy-sensitive European market. GDPR regulations mandate that EU
+Data Protection Authorities can issue a fine of up to 4% of company’s global revenue.
+
+-  Depending on how the bank cards are stored and what kind of credit card networks are integrated in the future for
+functionalities like in-store (offline) cashback, company may have PCI-DSS audit requirements. Current security
+framework is too deficient for PCI level of audit requirement.
+
+-  It is highly recommended that company designates a **Chief Information Security Officer** (CISO) to keep Security and
+Compliance programs alive within the organization and  give periodic KPI updates to board. CISO role can be initially
+handled by someone who is already an employee with good security and compliance experience, or it can be a new hire.
+
+-  Introduce periodic 3 rd party security vulnerability scans and remediation of the gaps.
+
+-  Migrate the applications over to Public Cloud Infrastructure Platform Services such as GCP, Azure or AWS. This will bring
+ability to enable quick trial of new features on the website, better security controls, global distribution of services and self-
+service DevOps capabilities for the growing software development team.
+
+##### 6.  Sales and Marketing
+
+###### 6.1.  ###### Discovered Facts
+
+Sales and Marketing related facts are gathered through analytics data _(_ _Appendix-B_ _)_ provided by ABCo. team and
+meetings with respective team members.
+
+
+
+-----
+
+
+####### 6.1.1.  Sales Capability Overview
+
+Current sales team comprises eight sales representatives and five employees doing auxiliary services around sales
+and marketing activities. Current sales capacity is able to serve some of the biggest merchants and maintain
+relationships with affiliate networks. Sales team is able to maintain day to day communication with the top
+advertisers and understands seasonality of the shopping trends on their sites to create a synergetic affiliate
+marketing plan for them.
+
+Not much work has been done to use data to establish the correlation between cashback rate to change in sales
+uplift for different categories and merchants at this time. There is a significant opportunity to use the data to show
+the value of ABCo. platform in marketing performance for advertisers and motivate them to expand their affiliate
+marketing budget. There is not much upsell tactics used by the sales team at this time, which leaves an
+opportunity for improvement. Company has a/b test framework but there isn’t enough effort put in place to work
+on experiments to continuously improve engagement and conversion.
+
+####### 6.1.2.  Marketing Capability Overview
+
+Company is currently employing multi-channel paid user acquisition strategy. Using a combination of search
+engine marketing (SEM) and social media marketing, number of registered users have increased by 58% from Q2
+‘20 to Q2 ‘21. Paid CAC is different in each country, but the payback period is averaging at around one year. CAC
+for FTB has been relatively inconsistent over the past three years. Lowest CAC was $4.30 in 2019 and highest was
+$13.20 in 2018, but it is at $8.60 in 2021 _(_ _Appendix-B_ _)_ . These numbers are reasonable for the market if the company
+improves customer engagement to drive higher LTV per user.
+<CHUNK_SEPARATOR>
+Current SEO strategy is limited to brand search and certain category-based cashback searches. Introduction of
+coupons/promo code and LetyClub based user generated content is aligned with the strategy to improve SEO.
+
+Company has a strategy to create a merchant self-service portal to drive efficiency of sales activities and advertiser
+engagement. If delivered as planned, this feature will be a great value proposition for advertisers and will enable
+increased margin.
+
+##### 6.2.  ###### Opinions and Recommendations – Sales & Marketing 
+
+**Sales & Marketing Maturity: Rank #4 – Needs investments above the projected plan**
+
+Current, sales team has a good foundation with data savvy individuals with focus on advising the product team on
+market fit and channel fit to drive performance. Company is using analytics capability to report on daily metrics
+and has historical data from last 7 years.
+
+It is highly recommended that company should make investment in the following areas to improve sales
+capabilities:
+
+-  Expansion of current team to continuously engage advertisers and their marketing managers in understanding the value of
+this affiliate marketing channel.
+
+-  Equip marketing managers at merchants with analytics data, canned reports and presentation templates to make them
+champions of marketing within their respective organizations.
+
+-  Conduct industry conferences inviting affiliate marketing managers from top merchants and future prospects to educate
+them and establish close relationships with the company.
+
+-  Drive merchant self-service portal development with speed and get continuous feedback from users to make it a strong
+value proposal for merchants.
+
+-  Improve analytics capabilities to correlate placement of merchants on website, cashback rate and user behavior to
+conversion rate.
+
+Company is not using data to drive personalization of user experience at this time. This is a great opportunity for
+improvement in the future to drive higher activity and increase LTV for the acquired users.
+
+-  Use dynamic personalization techniques using data on user persona, customer segmentation, activity history, geo-targeting
+and store/brand interests.
+
+-  Using a combination of personalization, product discovery tools and engagement through user generated content, move
+user behavior from bottom of the shopping funnel towards higher level of Find and Discovery stages ( _Picture-1_ ).
+
+
+
+-----
+
+
+-  Invest in a SEO strategy to move the SEO rankings from just brand search to a wide range of keywords tailored towards
+price sensitive shoppers.
+
+Budget forecast as part of 2021-2026 growth plan needs to be revisited in order to bring a balance between
+marketing spend and sales capabilities. Company needs to establish an optimized marketing-spend to sales-effort
+ratio, so that there is enough commission budget from merchants to monetize the acquired customers.
+
+##### 7.  Competitive Analysis
+
+###### 7.1.  ###### Competitive Landscape
+
+_Picture-4: Competitive landscape for cost sensitive shopping_ _(_ _Appendix-E_ _)_ __
+<CHUNK_SEPARATOR>
+|Col1|Col2|lty el lty l od de ya ya rs. M Mo Lo Lo shoppe Driven re/Brand Powered Voucher ensitive cer Sto inTech/Ecom s Influen cost Opportunity Opportunity Direct of Threat loyalty Threat e e F th Landscap re captu to cash-back top competition offline the the to / work market by create Crowdsource globally increase for dominated shoppers. card-linked can compete UGC the power. card geographies. will is in programs direct and / exists model ecosystem payment Forums negotiating / sensitive locally models dependency not Community integrations that with ive business These are competition comprehensively those powered but loyalty loyalty models cost Opportunity fragmented, commission – it for Cashback merchant cashback shopping of level strong Multiple Fintech players pet loyalty loyalty macro A ms e th • • • • e o s ddres del C el o d a M Mo landscape iscount oyalty e L D etitiv ck / s p a Coupon com Cashb Opportunity Strength This|
+|---|---|---|
+
+
+
+
+There are multiple business models designed to appeal to the cost sensitive shoppers. These categories are
+analyzed from the ABCo. perspective to look for opportunities to enhance the product ecosystem and mitigate the
+threats from competition. From a merchant’s perspective all of these models compete for the limited marketing
+budget. What matters most for a merchant is the performance of marketing dollars spent.
+
+**Cashback loyalty model:** This category is the core of ABCo. business model and has many regional leaders but no
+single global leader dominating all regions. Rakuten leads the North American market in this space while
+TopCashback takes the top spot in UK market. Very interestingly, TopCashback is paying 100% of the commission
+back to customers as loyalty cashback while gross margin contributions are achieved through advertisements. Key
+to success in this model is the ability to establish a market with higher commission rates and maintaining customer
+loyalty through cashback. Strengths of Rakuten in this model is the ability to get higher commission rates from
+merchants with marketing performance assurance. Whereas TopCashback focuses on consumer loyalty by paying
+the maximum cashback. Further innovation is happening in this area by introducing Cryptocurrency based
+cashback instead of national currencies (Lolli).
+
+**Coupons and discounts** : This model of coupon listing or deal publishing, is a crowded space with many players in
+each region. Dominant players here are RetailMeNot in North America, Promokodi in Russia and more companies
+in each market. SEO is a dominant user acquisition play for this business model. Challenge with this model is that
+
+
+
+-----
+
+
+customer relationship is more transactional resulting in a weak or no loyalty. Also, it is hard to guarantee
+marketing performance for the merchants in this model.
+
+**Forums based deals model** : This is a popular model where consumers start sharing the deals they found on
+forums, and it is curated & organized by the platform operator. Platform operator (company) gets paid when these
+posted links are clicked through, and transactions happen on the partner merchant site. Part of this commission
+received can be shared with the members who post the link and/or with the members who actually do the
+transaction. Slickdeals is a top player in the US market and Hotukdeals is in UK market using this model. Strength of
+this model is the community engagement and social aspect of the shopping.
+<CHUNK_SEPARATOR>
+**Store loyalty:** Starting from Amazon prime membership to store loyalty points, each retailer has a program to
+establish direct loyalty with the customer. This gives those merchants opportunity to bypass affiliate marketing
+channels like ABCo. wherever and whenever possible. Big merchants like Amazon, Walmart, AliExpress may decide
+to restrict the affiliate marketing budgets to certain categories or eliminate the program altogether. This risk can
+be mitigated by creating a price comparison feature where the shopping sessions can be moved to a better priced
+store, who has affiliate marketing relationship with the company.
+
+**Fintech, Cards based rewards loyalty:** As every transaction requires a payment method, payment card providers
+and payment FinTech services have direct access to customer information and can easily create an ecosystem of
+reward services around payments. Paypal acquisition of Honey reiterates the significance of this ecosystem of
+rewards around payment FinTech. Strength of this model is the ability of the provider to tailor rewards system
+around the financial behavior of the customer. Weakness in this model is the regulations and barrier to entry into
+the new markets with ease.
+
+**Voucher model:** Groupon in multiple regions and Wowcher in UK dominate this market. This business model
+involves merchants and local businesses to access customer base by offering discount vouchers for their goods and
+services on the company’s platform. Strength of this business model is the ability to enable online to offline
+integration of local businesses and upfront transaction commitments by customers to get discounts.
+
+**Influencer model:** As customers shift their entertainment habits more and more towards user generated
+entertainment such as YouTube and Social media, lot of influencers are gaining popularity on these platforms and
+can significantly alter the decision making process of buyers. Shopstyle.com (a Rakuten company) used this trend
+to create a community of influencers and draws traffic to its site from bloggers and vloggers. Bloggers and other
+influencers create links and widgets of products offered on Shopstyle and share with their followers. Shopstyle
+gets paid affiliate commission and shares part of that commission to pay influencers and also gives cashback for
+customer loyalty. Strength of this model is the ability to reach a niche, fashion sensitive shopper base. Weakness in
+this model is the dependency on the limited ability of the influencer network to give coverage for various product
+categories.
+
+###### 7.2.  ###### Opinions and Recommendations based on Competitive Analysis
+
+Based on this competitive analysis of the cost sensitive shopping options for consumers, we may state that:
+
+-  ABCo. has a good footing in the Cashback  business model and commands leadership position in the targeted geographies –
+Russia and Ukraine.
+
+-  Cashback model is a great loyalty model where ABCo. can continue to create an ecosystem of services around it to appeal
+to cost sensitive shoppers.
+
+-  Following business models are opportunity areas for ABCo. to expand:
+
+`o`  Expansion of Cashback model to offline / in-store shopping
+
+`o`  Forums and crowdsource model
+
+`o`  Influencer network based user acquisition and commerce activity
+
+`o`  Coupons and discounts
+
+-  Following models are hard to replicate with the current ABCo. business model, but the threat posed by these models need
+to be mitigated by strengthening the core cashback business model.
+
+`o`  Vouchers
+
+`o`  Direct shop / brand loyalty
+
+`o`  FinTech / Payment services rewards
+
+
+
+-----
+
+
+Overall, ABCo. is better prepared to compete by strengthening the ecosystem around its core offering of cashback-
+based loyalty.
+
+####### 7.2.1.  SWOT Analysis
+
+_Picture-5: SWOT Analysis for ABCo._
+<CHUNK_SEPARATOR>
+|Col1|Col2|business Amazon data-leak the as fine acquisition (perception with airlines affiliate product funnel stickiness as revenue e-commerce as issues budget or (such revenue model fraud model as shopping on through customer model such and programs scalability 3%) ysis dependency their & incidents, business personalization company crowdsource 8% conversion overall vs. sites of ad-spend business the model to (<1% cancellation & 5% loyalty loyalty create in marketing the marketing security the Opportunities early merchant from penetration business of Threats maximum marketing loyalty Anal Forums of merchant branded will stage to rate dynamic 4% of experience to technology for grows affect upto affiliate cashback case this reduced leading certain / looking and for for UGC affiliate to for cost with activity in may white-labeling optimization loyalty establishment low for especially through programs, at in consumer SWOT in may user market average scheme) actions inflection saturation merchant result is investment user customer entry violation per SEO Ecommerce as may Regulatory LTV press, ecosystem Increasing marketing Cashback kick-back to the Platform platform Industry Improve Expand Market Market Barrier Higher prime) Direct GDPR Weak Move Bad / •••••• ••• • ••••• •• for expansion experimentation Model talent trends cloud product existing developer the the market team light influence shoppers YoY of appealing team trend the agility of 85% development very changing find data Lack capturing management future Business around are the to programs to sensitive activity - with easy methodology not measures lacks capabilities to Weaknesses and Strengths $8.60/ftb but model to at adapt and software user limited infrastructure price integrations Current strong privacy merchants, the stack using loyalty to compliance by the test prevention able currently very at for consumer technology Mission – for personalization efficient Economics consumer A/B capability is is strategy network roadmap of rates team Website rate of budget is security and utilization fraud service cashback activity scope strong is Management efficient SEO Vision affiliate FTB Established Self-service Unit ecosystem debt: marketing stack light Website Product of of of for hosted Cohort Strong Clear Light Lack Lack Lack Tech Cost Very with CAC Top the •••••• •• • •••• •• ••|
+|---|---|---|
+
+
+
+
+
+
+-----
+
+
+##### 
+
+
+
+-----

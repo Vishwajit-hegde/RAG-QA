@@ -1,0 +1,11 @@
+  Q: What is the difference between a homogeneous and heterogeneous mixture?
+
+A: A homogeneous mixture is a mixture that has a uniform composition throughout, meaning that the particles are evenly distributed and the mixture has a consistent appearance. A heterogeneous mixture, on the other hand, is a mixture that has a non-uniform composition, meaning that the particles are not evenly distributed and the mixture has a varied appearance. Examples of homogeneous mixtures include solutions, such as salt dissolved in water, while examples of heterogeneous mixtures include mixtures of sodium chloride and iron filings, salt and sulphur, and oil and water.
+SEPARATOR
+  Q: What is the difference between a solution and a suspension?
+
+A: A solution is a homogeneous mixture where the solute particles dissolve in the solvent, whereas a suspension is a heterogeneous mixture where the solute particles do not dissolve but remain suspended throughout the bulk of the medium. In a solution, the particles are smaller than 1 nm in diameter and cannot be seen by the naked eye, whereas in a suspension, the particles are visible to the naked eye.
+SEPARATOR
+  Q: What is the difference between a suspension and a colloid?
+
+A: A suspension is a heterogeneous mixture where the particles are visible to the naked eye and can be separated from the mixture by filtration, while a colloid is a heterogeneous mixture where the particles are too small to be seen with the naked eye and are uniformly spread throughout the solution, making it appear homogeneous. Colloids are stable and cannot be separated from the mixture by filtration, but can be separated by centrifugation.

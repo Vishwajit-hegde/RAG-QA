@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Question</h1>
+    <div>
+        <p>{{ question['question'] }}</p>
+        <form action="/evaluate" method="POST">
+            <input type="hidden" name="question_index" value="{{ question_index }}">
+            <input type="hidden" name="question" value="{{ question['question'] }}">
+            <input type="hidden" name="correct_answer" value="{{ question['answer'] }}">
+            <input type="text" name="user_answer" placeholder="Your answer">
+            <input type="submit" value="Submit">
+        </form>
+        {% if evaluation %}
+            <p>{{ evaluation }}</p>
+        {% endif %}
+    </div>
+    {% if next_question_index is not none %}
+    <form action="/next_question" method="GET">
+        <input type="hidden" name="question_index" value="{{ question_index }}">
+        <input type="submit" value="Next Question">
+    </form>
+    {% endif %}            
+</body>
+</html>

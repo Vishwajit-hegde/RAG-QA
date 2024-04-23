@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiple Choice Question</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Multiple Choice Question</h1>
+        <p>{{ question['question'] }}</p>
+        <form action="/evaluate" method="POST">
+            <input type="hidden" name="question_index" value="{{ question_index }}">
+            <input type="hidden" name="question" value="{{ question['question'] }}">
+            <input type="hidden" name="correct_answer" value="{{ question['answer'] }}">
+            
+            {% for option in question['options'] %}
+            <label>
+                <input type="radio" name="user_answer" value="{{ option }}"> {{ option }}
+            </label><br>
+            {% endfor %}
+            
+            <input type="submit" value="Submit">
+        </form>
+        
+        {% if evaluation %}
+            <p>{{ evaluation }}</p>
+        {% endif %}
+        
+        {% if next_question_index is not none %}
+        <form action="/next_question" method="GET">
+            <input type="hidden" name="question_index" value="{{ question_index }}">
+            <input type="submit" value="Next Question">
+        </form>
+        {% endif %}
+    </div>
+</body>
+</html>

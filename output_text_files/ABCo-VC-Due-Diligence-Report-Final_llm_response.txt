@@ -1,0 +1,18 @@
+  Q: What is the purpose of the Due Diligence Report prepared by Keyoor Consulting?
+
+A: The purpose of the Due Diligence Report is to provide a comprehensive analysis of the business model, management team, product and technology, sales and marketing, and competitive landscape of a company in the affiliate marketing industry, in order to assess its potential for investment or acquisition. The report provides opinions and recommendations based on discovered facts, and aims to help investors or acquirers make informed decisions.
+SEPARATOR
+  Q: What is the estimated GMV for ABCo. in 2026, according to the company's projections?
+A: The estimated GMV for ABCo. in 2026 is $22B (high-end projection) or $9B (low-end estimate).
+SEPARATOR
+  Q: What is the estimated revenue of ABCo. for 2021, according to the provided data?
+
+A: The estimated revenue of ABCo. for 2021 is $50B, based on the projected revenue of $50M for 2021 and the estimated GMV of $1B for 2021.
+SEPARATOR
+  Q: What is the recommended strategy for ABCo. to overcome the industry inflection point and achieve sustainable growth?
+
+A: The recommended strategy for ABCo. is to increase the sales budget to attract merchants onto the platform and establish the industry in emerging markets. This investment will involve strengthening the sales team, improved analytics capabilities, industry conferences, and regulatory lobbying. By doing so, ABCo. can create a stronger network effect and increase marketing commission rates by merchants, ultimately achieving sustainable growth.
+SEPARATOR
+  Q: What is the main factor that contributes to the positive trend in user engagement and increased revenue per user on the company's platform, according to the given analysis?
+
+A: The main factor that contributes to the positive trend in user engagement and increased revenue per user on the company's platform is the increased investment in product innovation, which has led to a differentiator (moat) that makes it hard for competitors to copy, and has created additional revenue streams, resulting in an upward trend in commission percentage.
