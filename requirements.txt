@@ -1,0 +1,7 @@
+pymupdf
+pypdf2
+langchain
+openai
+flask
+werkzeug
+tqdm
