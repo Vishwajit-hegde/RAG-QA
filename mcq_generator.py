@@ -9,7 +9,7 @@ class MCQGenerator:
         pdf_paths, 
         anyscale_api_key: str,
         separators: List[str] = ["\n\n\n", "\n\n", "\n", " "],
-        chunk_size: int = 4000,
+        chunk_size: int = 2000,
         chunk_overlap: int = 0,
         llm_model_name: str = "meta-llama/Llama-2-7b-chat-hf",
         llm_temperature: float = 0.5, 
