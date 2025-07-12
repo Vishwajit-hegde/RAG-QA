@@ -1,3 +1,4 @@
 test_output.txt
 test_gemini.ipynb
 qa-env/
+.env
