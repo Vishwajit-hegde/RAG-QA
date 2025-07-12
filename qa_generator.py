@@ -3,18 +3,22 @@
 from pdf_parser import pdf_to_text
 from tqdm import tqdm
 from typing import Any, Dict, List
-import openai
+import google.generativeai as genai
+from dotenv import load_dotenv
+load_dotenv()
+import os
+from prompts import *
+api_key = os.environ.get("GEMINI_API_KEY")
+genai.configure(api_key=api_key)
+model = genai.GenerativeModel('gemini-2.5-pro')
 
 class QAGenerator:
     def __init__(
         self, 
         pdf_paths, 
-        anyscale_api_key: str,
         separators: List[str] = ["\n\n\n", "\n\n", "\n", " "],
-        chunk_size: int = 2000,
+        chunk_size: int = 50000,
         chunk_overlap: int = 0,
-        llm_model_name: str = "meta-llama/Llama-2-7b-chat-hf",
-        llm_temperature: float = 0.5, 
         parse_func: str = 'pymupdf'
         ):
         # Load documents
@@ -31,14 +35,7 @@ class QAGenerator:
         self.response_txt_file_name = '_'.join([pdf_paths[i].split('/')[-1].replace('.pdf','') for i in range(len(pdf_paths))]) + '_llm_response.txt'
         self.qa_txt_file_name = '_'.join([pdf_paths[i].split('/')[-1].replace('.pdf','') for i in range(len(pdf_paths))]) + '_QAs.txt'
 
-        #LLM configs
-        self.llm_endpoint = "https://api.endpoints.anyscale.com/v1"
-        self.llm_model_name = llm_model_name
-        self.temperature = llm_temperature
-        self.anyscale_api_key = anyscale_api_key
-        
-
-        self.qa_prompt_template = """Content: {}.\n Based on this content, create a {} question and answer pair to test the knowledge of the user in an exam. Response should be in the follwoing template: \n Q: <question> \n A: <answer>"""
+        self.qa_prompt_template = qa_prompt_template
 
         #test_output = self.get_llm_response("Say 'Test.'")
 
@@ -55,9 +52,9 @@ class QAGenerator:
             doc_text = doc.page_content
             doc_text = doc_text.replace('\n','  ')
             if qns_per_batch==1:
-                prompt = self.qa_prompt_template.format(doc_text, "single")
+                prompt = self.qa_prompt_template.format(content=doc_text, N="single")
             else:
-                prompt = self.qa_prompt_template.format(doc_text, f"set of {qns_per_batch}")
+                prompt = self.qa_prompt_template.format(content=doc_text, N=f"set of {qns_per_batch}")
             resp_text = self.get_llm_response(prompt)
             resp_texts.append(resp_text)
 
@@ -93,16 +90,9 @@ class QAGenerator:
         return qa_list
     
     def get_llm_response(self, prompt):
-        self.client = openai.OpenAI(base_url = self.llm_endpoint,
-                                    api_key = self.anyscale_api_key)
-        chat_completion = self.client.chat.completions.create(
-        model=self.llm_model_name,
-        messages=[{"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt}],
-                temperature=self.temperature
-        )
+        response = model.generate_content(prompt)
 
-        return chat_completion.model_dump()['choices'][0]['message']['content']
+        return response.text
     
     def convert_resp_text_to_qas(self, resp_text):
         resp_text_lines = resp_text.split('\n')

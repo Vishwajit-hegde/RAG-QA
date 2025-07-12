@@ -15,10 +15,7 @@ Prepared for:
 #### Prepared by: Gopal Bhat
 
 ###### 
-
 ###### Keyoor Consulting
-
-###### g
 
 [gopal@keyoor.com](mailto:gopal@keyoor.com) 
 
@@ -29,17 +26,17 @@ Prepared for:
 
 ####### Table of Contents
 
-**_1._**  **_Executive Summary_** **_................................................................................................................................... 2_** 
+**_1._**  **_Executive Summary ................................................................................................................................... 2_** 
 
 **_2._**  **_Methodology ............................................................................................................................................ 2_** 
 
 **_3._**  **_Summary of Opinions ................................................................................................................................ 2_** 
 
-**_4._**  **_Business Model Overview_** **_.......................................................................................................................... 3_** 
+**_4._**  **_Business Model Overview .......................................................................................................................... 3_** 
 
 **4.1.**  **Discovered Facts ............................................................................................................................... 3** 
 
-**4.1.1.**  **Founding History** **........................................................................................................................... 3** 
+**4.1.1.**  **Founding History ........................................................................................................................... 3** 
 
 **4.1.2.**  **Current Scale of the Company ....................................................................................................... 3** 
 
@@ -47,43 +44,43 @@ Prepared for:
 
 **4.1.4.**  **Company Culture .......................................................................................................................... 3** 
 
-**4.1.5.**  **Key Business Metrics** **..................................................................................................................... 4** 
+**4.1.5.**  **Key Business Metrics ..................................................................................................................... 4** 
 
 **4.2.**  **Opinions and Recommendations – Business Model & Management ................................................... 4** 
 
-**4.2.1.**  **Business Model** **............................................................................................................................. 4** 
+**4.2.1.**  **Business Model ............................................................................................................................. 4** 
 
-**4.2.1.1.**  **Cohort Analysis** **............................................................................................................................. 5** 
+**4.2.1.1.**  **Cohort Analysis ............................................................................................................................. 5** 
 
 **4.2.1.2.**  **Growth Plan Review...................................................................................................................... 6** 
 
 **4.2.1.3.**  **Unit Economics of the Company .................................................................................................... 8** 
 
-**4.2.2.**  **Management Team** **..................................................................................................................... 10** 
+**4.2.2.**  **Management Team ..................................................................................................................... 10** 
 
-**_5._**  **_Product and Technology Overview_** **_........................................................................................................... 11_** 
+**_5._**  **_Product and Technology Overview ........................................................................................................... 11_** 
 
 **5.1.**  **Discovered Facts ............................................................................................................................. 11** 
 
 **5.1.1.**  **Product Overview ....................................................................................................................... 11** 
 
-**5.1.2.**  **Customer Support** **....................................................................................................................... 12** 
+**5.1.2.**  **Customer Support ....................................................................................................................... 12** 
 
-**5.1.3.**  **Technology Stack Overview** **......................................................................................................... 12** 
+**5.1.3.**  **Technology Stack Overview ......................................................................................................... 12** 
 
-**5.2.**  **Opinions and Recommendations – Product & Technology** **................................................................ 13** 
+**5.2.**  **Opinions and Recommendations – Product & Technology ................................................................ 13** 
 
-**_6._**  **_Sales and Marketing ............................................................................................................................... 14_**
-<CHUNK_SEPARATOR>
+**_6._**  **_Sales and Marketing ............................................................................................................................... 14_** 
+
 **6.1.**  **Discovered Facts ............................................................................................................................. 14** 
 
 **6.1.1.**  **Sales Capability Overview ........................................................................................................... 15** 
 
 **6.1.2.**  **Marketing Capability Overview ................................................................................................... 15** 
 
-**6.2.**  **Opinions and Recommendations – Sales & Marketing** **...................................................................... 15** 
+**6.2.**  **Opinions and Recommendations – Sales & Marketing ...................................................................... 15** 
 
-**_7._**  **_Competitive Analysis_** **_............................................................................................................................... 16_** 
+**_7._**  **_Competitive Analysis ............................................................................................................................... 16_** 
 
 **7.1.**  **Competitive Landscape ................................................................................................................... 16** 
 
@@ -113,7 +110,7 @@ Please note that this due diligence report is for information purposes only. You
 
 |information or other material provided here as|Col2|legal, investment, financial, or other advice. Nothing contained in|Col4|
 |---|---|---|---|
-|this document constitutes a solicitation, recommendation, endorsement, or offer from Keyoor Consulting to invest||||
+|this document constitutes a solicitation, recommendation, endorsement, or offer from Keyoor Consulting to invest|this document constitutes a solicitation, recommendation, endorsement, or offer from Keyoor Consulting to invest|this document constitutes a solicitation, recommendation, endorsement, or offer from Keyoor Consulting to invest|this document constitutes a solicitation, recommendation, endorsement, or offer from Keyoor Consulting to invest|
 |or seek financial commitment.||||
 
 
@@ -126,19 +123,12 @@ There were four due diligence meetings held between Keyoor Consulting, VC Capita
 **Attendees:**
 
 -  Gopal Bhat - Keyoor Consulting
-
 -  Konstantin– VC Capital
-
 -  Nikita– VC Capital
-
 -  Igor– Founder & CEO, ABCo.
-
 -  Zahar– CRO, ABCo.
-
 -  Julia– Sales & Marketing, ABCo.
-
 -  Pavel– CTO, ABCo.
-
 -  Svetlana - CFO, ABCo.
 
 Most of the opinions in the document are based on the information received in these Q&A Sessions. Any
@@ -152,14 +142,15 @@ _Table-1: Maturity rank for different areas of the business_
 
 |Col1|Pillars of Business|Col3|Col4|Maturity Rank|Col6|Col7|Opinion summary|Col9|Col10|
 |---|---|---|---|---|---|---|---|---|---|
-||Business Model|||1|||Mature, proven and scalable|||
-|Management Team 2 Passionate team with vision. Can use bit more help||||||||||
-||Unit Economics|||3|||Good trend so far. Continue to improve|||
-|Sales & Marketing 4 Needs investments above the projected plan||||||||||
-||||||||Needs significant improvements|||
-||Product & Technology|||5|||Needs significant improvement|||
-|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.||||||||||
-<CHUNK_SEPARATOR>
+||**Business Model**|||1|||Mature, proven and scalable|Mature, proven and scalable||
+|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|**Management Team**<br>2 <br>Passionate team with vision. Can use bit more help|
+||**Unit Economics**|||3|||Good trend so far. Continue to improve|Good trend so far. Continue to improve||
+|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|**Sales & Marketing**<br>4 <br>Needs investments above the projected plan|
+||||||||Needs significant improvements|Needs significant improvements||
+||**Product & Technology**|||5|||Needs significant improvement|Needs significant improvement|Needs significant improvement|
+|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|*Opinions are based on the assessment of multiple factors for each pillar of business as discussed in detail throughout this due diligence document.<br>|||
+
+
 Pillars of business are assessed in the context of affiliate marketing industry and ranked based on the relative
 maturity level. Business model of the company is most mature with proven success and scalable across the
 geographies. Management team is well aligned with the market demand and has a vision to meet both consumer
@@ -175,7 +166,7 @@ an ecosystem of products around price sensitive shopping, supported by a secure 
 
 ##### 4.  Business Model Overview
 
-###### 4.1.  ###### Discovered Facts
+###### 4.1.  Discovered Facts
 
 Facts gathered from the company are presented below as received.
 
@@ -207,13 +198,10 @@ ABCo. experienced a good increase in both number of registered users and active 
 
 _Graph-2: User stats_
 
-
-
 *Active users are those who visited the site and performed some activity in the reporting period
 
+
 ####### 4.1.4.  Company Culture
-
-
 
 **Company’s vision:**
 
@@ -231,7 +219,6 @@ _Graph-2: User stats_
 **Company’s philosophy:**
 
 “Best product experience is the best marketing”
-
 ####### 4.1.5.  Key Business Metrics
 
 **__** _(Ref: Interview notes and_ _Appendix-B_ _)_ **__**
@@ -241,31 +228,31 @@ _Table-2: Key metrics_
 
 |Col1|Metric|Col3|Col4|Value|Col6|
 |---|---|---|---|---|---|
-||User base|||20 M||
-|Merchant Partners|||3000+|||
-||GMV|||~$1B forecasted for 2021||
-|GMV (ttm)|||$700-$750M|||
-||Net revenue growth Q2 ’20 → Q2 ‘21|||3x||
-|Average commission rate|||5% - 5.5% range|||
-||Revenue (ttm)|||$40M||
-|Revenue – 2021 projected|||$50M|||
-||Average GM|||43%||
-|EBITDA margin|||0% (may be negative)|||
-||Cash burn rate (current)|||-$150K to -$200K /month||
-|CAC / Cost per FTB in 2021**|||$8.60/ftb (Factors making up this cost are not provided)|||
-||LTV / CAC ratio|||2.7x measured over 3 years||
-|MAU increase**|||May ’21 = 7.8%, Jun ’21 = 10%|||
-||Top Merchant|||Ali Express in Russia||
-|Projected cashback penetration in target markets|||3% (Currently <1%)|||
-||App Installs|||Android: 5M, IOS: 1.5M, Browser extension: 1M||
-|Market sizing (as presented)|||3% of $1.44T = $43B by 2026|||
+||**User base**|||20 M||
+|**Merchant Partners**|**Merchant Partners**|**Merchant Partners**|3000+|3000+|3000+|
+||**GMV**|||~$1B forecasted for 2021||
+|**GMV (ttm)**|**GMV (ttm)**|**GMV (ttm)**|$700-$750M|$700-$750M|$700-$750M|
+||**Net revenue growth Q2 ’20**→** Q2 ‘21**|||3x||
+|**Average commission rate**|**Average commission rate**|**Average commission rate**|5% - 5.5% range|5% - 5.5% range|5% - 5.5% range|
+||**Revenue (ttm)**|||$40M||
+|**Revenue – 2021 projected**|**Revenue – 2021 projected**|**Revenue – 2021 projected**|$50M|$50M|$50M|
+||**Average GM**|||43%||
+|**EBITDA margin**|**EBITDA margin**|**EBITDA margin**|0% (may be negative)|0% (may be negative)|0% (may be negative)|
+||**Cash burn rate**(current)|||-$150K to -$200K /month||
+|**CAC / Cost per FTB in 2021****|**CAC / Cost per FTB in 2021****|**CAC / Cost per FTB in 2021****|$8.60/ftb (Factors making up this cost are not provided)|$8.60/ftb (Factors making up this cost are not provided)|$8.60/ftb (Factors making up this cost are not provided)|
+||**LTV / CAC ratio**|||2.7x measured over 3 years||
+|**MAU increase****|**MAU increase****|**MAU increase****|May ’21 = 7.8%, Jun ’21 = 10%|May ’21 = 7.8%, Jun ’21 = 10%|May ’21 = 7.8%, Jun ’21 = 10%|
+||**Top Merchant**|||Ali Express in Russia||
+|**Projected cashback penetration in target markets**|**Projected cashback penetration in target markets**|**Projected cashback penetration in target markets**|3% (Currently <1%)|3% (Currently <1%)|3% (Currently <1%)|
+||**App Installs**|||Android: 5M, IOS: 1.5M, Browser extension: 1M||
+|**Market sizing**(as presented)|**Market sizing**(as presented)|**Market sizing**(as presented)|3% of $1.44T = $43B by 2026|3% of $1.44T = $43B by 2026|3% of $1.44T = $43B by 2026|
 
 
 *2020 Data is skewed and an anomaly due to COVID related impact. Hard to use that data for trend analysis.
 
 ** MAU increase shows a positive trend and is an indication of improved monetization capabilities for the registered users.
-<CHUNK_SEPARATOR>
-###### 4.2.  ###### Opinions and Recommendations – Business Model & Management
+
+###### 4.2.  Opinions and Recommendations – Business Model & Management
 
 ####### 4.2.1.  Business Model
 
@@ -310,14 +297,14 @@ $
 
 |Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||$298 $262|||||||||||||||
+||||$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262||||||||
+||||$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262|$298<br>$262||||||||
+||||$189|$189||||||||||||||
+||||$189|$189||||||||||||||
 |||||||||||||||||||
-||||$189|||||||||||||||
-|||||||||||||||||||
-|||||||||||||||||||
+|||||||||$131|$131|$131||||||||
+|||||||||$131|$131|$131||||||||
 |||||||||$131||||||||||
-|||||||||||||||||||
-|||||||||||||||||||
 |||||||||||||||||||
 
 
@@ -337,8 +324,7 @@ GMV/Buyer for Cohorts (International)
 
 $800
 
-$617
-$594 $544 $600
+$617 $594 $544 $600
 
 $479
 
@@ -347,8 +333,8 @@ $479
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||||
 |||||||||||||||||
-||$174|||||$192||||||||||
-|||||||||||||||||
+||$174|$174||||$192|$192|$192||||||||
+||$174|$174||||$192|$192|$192||||||||
 |||||||||||||||||
 
 
@@ -359,7 +345,6 @@ $-
 2018 2019 2020 2021
 
  
-
 Company is able to receive an average commission rate between 5% - 5.5% at this time. This **can be as high as 8%** 
 when the market is fully established, and company is able to uplift the merchant spend on affiliate marketing
 channels. This is a significant opportunity for the company to grow and requires investment in sales, analytics and
@@ -373,36 +358,33 @@ industry lobbying.
 _Graph-4: CAC for different businesses_ __ _(Source: DemandJump, 2019)_
 
 ###### Customer Acquisition Cost (By Industry)
-
 Affiliate Marketing
 
 $395
-
 $400
 $450
 
 
 |$315|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|$303|||||||||||||||
-|$213|||||||||||||||
-|$175 $182|||||||||||||||
-|$141|||||||||||||||
-||||||||||||||||
-|$83 $98|||||||||||||||
+|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>|$303<br>||
+|$213|$213|$213|$213|$213|$213|$213|$213|$213|$213||||||
+|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>|$175<br>$182<br>||||||
+|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|||||||
+|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|$141<br><br>|||||||||
+|$83<br>$98|$83<br>$98|$83<br>$98|||||||||||||
 |$22|||||||||||||||
-||||||||||||||||
+|$22|||||||||||||||
 
 
 $0
-
 
 
 Current CAC is around $8.60/ftb with a payback period of around 1 year. This is relatively lower compared to
 $21/ftb in established markets, but payback period matches 1year based on the information provided.
 
 **Notes on the industry:**
-<CHUNK_SEPARATOR>
+
 Analysis of cohort spend, payback period, combined with current ecosystem of product portfolio suggests that
 there is a significant opportunity to increase the LTV of an acquired customer **up through the conversion pipeline** .
 This is achievable by increasing the customer engagement with an ecosystem of product offerings, personalization
@@ -415,7 +397,6 @@ _Picture-1: Shopping conversion funnel_
 ##### Find ****
 
 ##### Convert
-
 
 
 
@@ -436,9 +417,7 @@ model and prevent further innovation in loyalty models.
 There are few major assumptions with respect to projected growth _(Table-3)_ :
 
 -  Cashback loyalty market will grow to 3% of the ecommerce in the addressable market (~$1.4T)
-
 -  ABCo. will be able to capture #1 position in these markets with 50+% of market share
-
 -  Commission rate will remain around 5.5%
 
 _Table-3: Growth, P&L Projections (as provided by ABCo.)_
@@ -448,25 +427,24 @@ Possible industry
 inflection point
 
 
-
 _Table-4: Growth P&L Projections (Recommended scenario in_ _$MM_ _)_
 
 
-|2021 2022 2023 2024 2025 2026 GMV $916 $2,076 $4,388 $8,379 $14,843 $22,206 Instead of focusing on purely higher-cashback driven commission % 5.5% 5.5% 5.8% 6.0% 6.3% 6.5% growth, increase the budget for product innovation & sales development so that the Net Revenue $50 $114 $252 $503 $928 $1,443 company can establish the market for higher commission margin % 43% 40% 40% 42% 35% 38% Gross Profit $22 $46 $101 $211 $325 $548 Marketing $14 $40 $76 $157 $232 $361 marketing % 28.0% 35.1% 30.0% 31.2% 25.0% 25.0% R&D $2 $9 $13 $18 $23 $29 r&d % 4.0% 8.0% 5.0% 3.5% 2.5% 2.0% SG&A $7 $13 $20 $23 $28 $36 sg&a % 14.0% 11.0% 8.0% 4.5% 3.0% 2.5% Profit (Loss) -$2 -$16 -$8 $14 $42 $123|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|
+|2021 2022 2023 2024 2025 2026<br>GMV $916 $2,076 $4,388 $8,379 $14,843 $22,206 Instead of focusing on purely<br>higher-cashback driven<br>commission % 5.5% 5.5% 5.8% 6.0% 6.3% 6.5% growth, increase the budget<br>for product innovation & sales<br>development so that the<br>Net Revenue $50 $114 $252 $503 $928 $1,443<br>company can establish the<br>market for higher commission<br>margin % 43% 40% 40% 42% 35% 38%<br>Gross Profit $22 $46 $101 $211 $325 $548<br>Marketing $14 $40 $76 $157 $232 $361<br>marketing % 28.0% 35.1% 30.0% 31.2% 25.0% 25.0%<br>R&D $2 $9 $13 $18 $23 $29<br>r&d % 4.0% 8.0% 5.0% 3.5% 2.5% 2.0%<br>SG&A $7 $13 $20 $23 $28 $36<br>sg&a % 14.0% 11.0% 8.0% 4.5% 3.0% 2.5%<br>Profit (Loss) -$2 -$16 -$8 $14 $42 $123|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|Col16|Col17|Col18|Col19|Col20|Col21|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||2021|||2022|||2023|||2024|||2025|||2026|||
-|GMV|||$916|||$2,076|||$4,388|||$8,379|||$14,843|||$22,206|||
-|commission %|||5.5%|||5.5%|||5.8%|||6.0%|||6.3%|||6.5%|||
-|Net Revenue|||$50|||$114|||$252|||$503|||$928|||$1,443|||
-|margin %|||43%|||40%|||40%|||42%|||35%|||38%|||
-|Gross Profit|||$22|||$46|||$101|||$211|||$325|||$548|||
-|Marketing|||$14|||$40|||$76|||$157|||$232|||$361|||
-|marketing %|||28.0%|||35.1%|||30.0%|||31.2%|||25.0%|||25.0%|||
-|R&D|||$2|||$9|||$13|||$18|||$23|||$29|||
-|r&d %|||4.0%|||8.0%|||5.0%|||3.5%|||2.5%|||2.0%|||
-|SG&A|||$7|||$13|||$20|||$23|||$28|||$36|||
-|sg&a %|||14.0%|||11.0%|||8.0%|||4.5%|||3.0%|||2.5%|||
-||Profit (Loss)|||-$2|||-$16|||-$8|||$14|||$42|||$123||
+||||**2021**|**2021**|**2021**|**2022**|**2022**|**2022**|**2023**|**2023**|**2023**|**2024**|**2024**|**2024**|**2025**|**2025**|**2025**|**2026**|**2026**|**2026**|
+|GMV|GMV|GMV|$916|$916|$916|$2,076|$2,076|$2,076|$4,388|$4,388|$4,388|$8,379|$8,379|$8,379|$14,843|$14,843|$14,843|$22,206|$22,206|$22,206|
+|commission %|commission %|commission %|5.5%|5.5%|5.5%|5.5%|5.5%|5.5%|5.8%|5.8%|5.8%|6.0%|6.0%|6.0%|6.3%|6.3%|6.3%|6.5%|6.5%|6.5%|
+|Net Revenue|Net Revenue|Net Revenue|$50|$50|$50|$114|$114|$114|$252|$252|$252|$503|$503|$503|$928|$928|$928|$1,443|$1,443|$1,443|
+|margin %|margin %|margin %|43%|43%|43%|40%|40%|40%|40%|40%|40%|42%|42%|42%|35%|35%|35%|38%|38%|38%|
+|Gross Profit|Gross Profit|Gross Profit|$22|$22|$22|$46|$46|$46|$101|$101|$101|$211|$211|$211|$325|$325|$325|$548|$548|$548|
+|Marketing|Marketing|Marketing|$14|$14|$14|$40|$40|$40|$76|$76|$76|$157|$157|$157|$232|$232|$232|$361|$361|$361|
+|marketing %|marketing %|marketing %|28.0%|28.0%|28.0%|35.1%|35.1%|35.1%|30.0%|30.0%|30.0%|31.2%|31.2%|31.2%|25.0%|25.0%|25.0%|25.0%|25.0%|25.0%|
+|R&D|R&D|R&D|$2|$2|$2|$9|$9|$9|$13|$13|$13|$18|$18|$18|$23|$23|$23|$29|$29|$29|
+|r&d %|r&d %|r&d %|4.0%|4.0%|4.0%|8.0%|8.0%|8.0%|5.0%|5.0%|5.0%|3.5%|3.5%|3.5%|2.5%|2.5%|2.5%|2.0%|2.0%|2.0%|
+|SG&A|SG&A|SG&A|$7|$7|$7|$13|$13|$13|$20|$20|$20|$23|$23|$23|$28|$28|$28|$36|$36|$36|
+|sg&a %|sg&a %|sg&a %|14.0%|14.0%|14.0%|11.0%|11.0%|11.0%|8.0%|8.0%|8.0%|4.5%|4.5%|4.5%|3.0%|3.0%|3.0%|2.5%|2.5%|2.5%|
+||**Profit (Loss)**|||**-$2**|||**-$16**|||**-$8**|||**$14**|||**$42**|||**$123**||
 
 
 Based on the marketing spend plan ( _Table-3_ ), there is a good chance that the projected top-line revenue is
@@ -475,7 +453,7 @@ merchant commission on company’s platform to convert the acquired customer (pa
 growth projections are dependent on increased cashback and more marketing. This strategy will create an industry
 inflection point where overall cashback loyalty market itself may start becoming flat. To overcome this, industry
 leaders like ABCo. will need to invest in sales and industry establishment.
-<CHUNK_SEPARATOR>
+
 It is highly recommended that **Sales budget should be increased** to attract merchants on to platform and establish
 the industry in the emerging markets. Investment like this will involve, strengthening of the sales team, improved
 analytics capabilities, industry conferences and regulatory lobbying. This increased investment will be paid off
@@ -499,13 +477,12 @@ _(Ref:_ Appendix-C _– Section: Revenue per user calculation)_
 _Graph-5: Revenue per active user_
 
 
-|Unit Economics - Revenue per User $1.50 $1.24 $1.00 $0.97 $1.00 $0.69 $0.75 $0.60 $0.47 $0.46 $0.50 $0.30 $0.34 $0.00 Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021 Revenue/Reg User Revenue/Active User|17% Average Improvement|
+|Unit Economics - Revenue per User<br>$1.50 $1.24<br>$1.00 $0.97<br>$1.00 $0.69 $0.75<br>$0.60<br>$0.47 $0.46<br>$0.50 $0.30 $0.34<br>$0.00<br>Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021<br>Revenue/Reg User Revenue/Active User|17% Average<br>Improvement|
 |---|---|
 
-|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|$1.24|
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||||
-||||||||$0.46||||$0.60||||
+||||||||$0.46|$0.46|$0.46||$0.60|$0.60|$0.60||
 ||||||||||||||||
 ||||||||||||||||
 ||||||||||||||||
@@ -518,7 +495,6 @@ Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021
 Revenue/Reg User Revenue/Active User
 
 ****
-
 **Revenue per active user** analysis, based on the data provided so far shows a continuous improvement over five
 quarters. Part of this may be skewed by the dip in 2020 due to COVID-19, but the improvement of 17% quarter
 over quarter with 28% improvement between Q1 to Q2 of 2021 shows an increased engagement of the customers
@@ -545,15 +521,11 @@ Recommended methodology to accomplish such a number:
 
 
 -  EP: Ecommerce using population (number)
-
--  RPU: Revenue per user
-
 -  AP: Activity percent rate ( % )
-
--  EM: Ecommerce Market size of the geography in consideration ($ size)
-
 -  MSC: Market share Capture goal for the company
 
+-  RPU: Revenue per user
+-  EM: Ecommerce Market size of the geography in consideration ($ size)
 -  CBP: Cashback affiliate marketing Penetration into  the ecommerce market ( % )
 
 _Graph-6: FTBs vs. Activity of Existing Users_ _(_ Appendix-C _)_
@@ -582,7 +554,6 @@ Seasonality
 1000000
 
 Critical inflection point
-
 where existing user activity
 
 0
@@ -596,14 +567,14 @@ acquired users
 FTBs Existing Active Users
 
 
-
 Simple graphical analysis of **FTB activity vs. existing user activity** reveals that the company made a significant
 transition in engaging existing users in Q1, 2021. This trend further re-iterates the healthy trend of increased
 activity of the existing users, which will lead to a sustained growth and more ROI on the CAC.
 
 _Graph-7: Trend of existing user activity_
-<CHUNK_SEPARATOR>
-|Percent of active existing registered users 40% 34% 33% 30% 24% 23% 22% 20% 10% 0% Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021|Healthy QoQ increase post pandemic related slowdowns|
+
+
+|Percent of active existing registered users<br>40% 34%<br>33%<br>30% 24%<br>23%<br>22%<br>20%<br>10%<br>0%<br>Q2 2020 Q3 2020 Q4 2020 Q1 2021 Q2 2021|Healthy QoQ increase post<br>pandemic related<br>slowdowns|
 |---|---|
 
 
@@ -621,7 +592,7 @@ Methodology used for LTV contribution calculation for an acquired user:
 Keyoor Consulting, proprietary – Do not publish or distribute
 
 
-|LTVc = (|𝑁 𝐺𝑀∗𝐹𝑌𝑅∑ (1 + 𝑟)𝑘−1(1 + 𝑅)𝑘−1 𝑘=1|) − 𝐶𝐴𝐶|
+|LTVc = (|𝑁<br>𝐺𝑀∗𝐹𝑌𝑅∑ (1 + 𝑟)𝑘−1(1 + 𝑅)𝑘−1<br>𝑘=1|) − 𝐶𝐴𝐶|
 |---|---|---|
 
 |(|1|+|𝑟)|𝑘−1|(|1|+|𝑅|)|𝑘−1|
@@ -640,17 +611,11 @@ Keyoor Consulting, proprietary – Do not publish or distribute
 
 
 -  LTVc = Lifetime Value contribution over N measuring periods
-
 -  FYR = First Year/Period Revenue (FYR = GMV*average commission rate)
-
 -  GM = Gross Margin
-
 -  N = # of periods in consideration
-
 -  r = average commerce activity degradation value for the cohorts in the measured period (negative percentage)
-
 -  R = average increase in spend per active cohort for the measured period (positive percentage, ideally)
-
 -  CAC = Onetime customer acquisition cost
 
 Values for these business metrics are detailed in _Appendix-C_ .
@@ -664,17 +629,14 @@ _Graph-8: Year LTV Contribution projections_
 
 
 
-
-
 -----
 
 
 ###### 5 Year LTV / User Contribution
 
-**$1B+ LTV**
-
 $3,500
 
+**$1B+ LTV**
 **Contribution over 5**
 
 **years for an**
@@ -755,7 +717,8 @@ product features.
 
 
 -----
-<CHUNK_SEPARATOR>
+
+
 Current management structure has both CEO and Chief Product Officer roles being handled by the same person.
 This may become a bottleneck to bring continuous product innovation when CEO has to focus more on growth and
 GTM in new geographies. **Introduce Chief Product Officer** role into management structure to handle both Product
@@ -769,7 +732,7 @@ plan.
 
 ##### 5.  Product and Technology Overview
 
-###### 5.1.  ###### Discovered Facts
+###### 5.1.  Discovered Facts
 
 Product and Technology related facts are gathered through questionnaire responses and meetings with respective
 teams.
@@ -782,65 +745,40 @@ Current portfolio of offerings include:
 -  Consumer perspective:
 
 `o`  Cashback shopping
-
 `o`  Shareable cashback link for referral
-
 `o`  Refer a friend bonus
-
 `o`  Browser extension based – never miss a cashback experience
-
 `o`  Metallic loyalty levels to earn additional cashback (Bronze, Silver, Gold)
-
 `o`  LetyClub – forums
-
 -  Merchant / Advertiser perspective:
 
 `o`  Sales uplift through ABCo. affiliate marketing channel
-
 `o`  _On product roadmap_ : Merchant self-service portal that can be used by marketing managers of merchant companies
 to get visibility into the performance of the dollars spent on ABCo..
-
 -  Major product features:
 `o`  Uniform consumer experience between Mobile App (IOS and Android), Mobile Web, Desktop Web and Browser
 extension
-
 `o`  Android app installs are around 5M while IOS app installs stand at around 1.5M
-
 `o`  Browser extension can do product price comparison
 
 ▪  Price monitoring and rating function
-
 ▪  Seller reliability check
-
 ▪  Browser extension has around 1M install base
-
 -  Payment systems supported:
 `o`  Paypal
-
 `o`  BankCard
-
 `o`  Amazon Gift card (India)
-
 -  Top marketplace categories are:
 `o`  Electronics: 20%
-
 `o`  Fashion: 20%
-
 -  Major product features on the roadmap:
 `o`  Installments: Micro-finance to enable buy now, pay later
-
 `o`  Influencer account
-
 `o`  Advertising account  OR Merchant self-service
-
 `o`  Coupons, Promo-codes & Deals
-
 `o`  Price comparison
-
 `o`  Price Monitoring
-
 `o`  Virtual Bank Card
-
 `o`  Offline cashback
 
 
@@ -859,7 +797,7 @@ Usage of A/B test process to qualify product features has been very light. Thoug
 it is not being used to create a better personalized experience using A/B test as of now. Even the mobile pushes
 and email campaigns are mostly manual and there is a lot of opportunity for personalization and automation to
 trigger active engagement of the users.
-<CHUNK_SEPARATOR>
+
 Current fraud prevention is based on anomaly detection of activity parameters such as IP address and account
 history. Detection of any anomalies trigger alerts to engage human fraud administrators to prevent any leakage in
 cashback. Though there are return frauds after receiving cashback, the problem is not prevalent.
@@ -897,7 +835,6 @@ conduct survey and can be initiated at the end of a customer
 support touchpoint to ensure maximum response
 
 
-
 ####### 5.1.3.  Technology Stack Overview
 
 _Picture-4: Tech stack_
@@ -907,7 +844,7 @@ _Picture-4: Tech stack_
 -----
 
 
-|Col1|Col2|, GB Caching End Layer Application /128 Front res plugin DatabaseDB ize co S DB 48 DB AppBrowser : DB – Storage risks .5TB improvement in Significant Ma 1 as identified and with for Legend Servers Areas scope Areas Android DB hysical is NoSQL s P aly App IOS An I AP / roker ack B Containers Message Hosting t S ce Experien Control Pen-tests Observability logy Compliance & Customer Access 3Party Security rd Techno datacenter more Pipelines to with framework cost be time up can built infrastructure and on and ground environments is dependency stack scalability stack Compliance eveloperCI/CD from software technology facility Cloud built in to Containerized and is be due free in colocation gap to effective efficient Security Current market mostly needs Major D • • • •|
+|Col1|Col2|Legend<br>Technology Stack Analysis Areas identified as risks<br>Areas with Significant<br>scope for improvement<br>• Current technology stack is built with<br>mostly free software stack and cost<br>effective<br>• Major gap is in scalability and time to<br>m coa lork ce at t id ou ne f ato ci ld ite ypendency on datacenter Customer Experience IOS App Android App Browser plugin<br>• Security and Compliance framework<br>needs to be built from ground up<br>Security &<br>• Containerized environments can be more Compliance Front End<br>efficient in Cloud infrastructure<br>3rd Party Pen-tests<br>Application<br>Message Broker / API<br>DB Caching<br>Main DB: 48 cores/128 GB,<br>1.5TB – DB Size<br>Observability Containers NoSQL DB Database DB Layer<br>Developer CI/CD Pipelines Access Control Hosting Physical Servers and Storage|
 |---|---|---|
 
 
@@ -917,7 +854,7 @@ software stack is extensible, making it easy for product team to try out new fea
 
 Technology team is projecting a team growth of up to 70 engineers. To enable productivity of this level of staffing
 capacity, team will need develop fully automated, self-service cloud environment provisioning capabilities.
-<CHUNK_SEPARATOR>
+
 Current Analytics database is nearly 7 TB in size and needs a futuristic architecture plan to enable more data-
 driven approach to product personalization and targeting.
 
@@ -941,8 +878,7 @@ _More on OWASP test:_
 [web-security-testing-guide/](https://owasp.org/www-project-web-security-testing-guide/)
 
 
-
-###### 5.2.  ###### Opinions and Recommendations – Product & Technology
+###### 5.2.  Opinions and Recommendations – Product & Technology
 
 **Product & Technology Maturity: Rank #5 – Needs significant improvements**
 
@@ -972,13 +908,9 @@ Explore following product platform enhancements apart from what is already on th
 **Consumer facing features and Additional Revenue Streams:**
 
 -  Enable early cashback for FTBs to get the confidence and make the experience sticky.
-
 -  Pay cashback through store gift cards.
-
 -  Experiment: Advertisement (CPD & CPC model) on the platform.
-
 -  Pay cashback using crypto-currency to appeal to that niche class.
-
 -  _Customer support:_ Create a program to get the **NPS score** to assess the customer satisfaction on a periodic basis and
 continuously improve the score from one measuring period to another.
 
@@ -997,34 +929,28 @@ or credit cards. This can be a future revenue stream if the platform is designed
 architecture.
 
 **Internal capabilities:**
-<CHUNK_SEPARATOR>
+
 -  Develop and implement A/B test capabilities for trying out quick iterations of different product experiences to qualify
 consumer acceptance or to fail-fast and move on.
-
 -  Improve fraud detection based on analytics and stronger rule-based workflows for cashback approval.
-
 -  Implement privacy (GDPR / CCPA) & Security (ISO 27001) controls and get certifications. Lack of this and any small
 security issue may spoil the reputation of the company and the cashback industry as a whole. Not having security as a
 culture within the company is a major risk in a privacy-sensitive European market. GDPR regulations mandate that EU
 Data Protection Authorities can issue a fine of up to 4% of company’s global revenue.
-
 -  Depending on how the bank cards are stored and what kind of credit card networks are integrated in the future for
 functionalities like in-store (offline) cashback, company may have PCI-DSS audit requirements. Current security
 framework is too deficient for PCI level of audit requirement.
-
 -  It is highly recommended that company designates a **Chief Information Security Officer** (CISO) to keep Security and
 Compliance programs alive within the organization and  give periodic KPI updates to board. CISO role can be initially
 handled by someone who is already an employee with good security and compliance experience, or it can be a new hire.
-
 -  Introduce periodic 3 rd party security vulnerability scans and remediation of the gaps.
-
 -  Migrate the applications over to Public Cloud Infrastructure Platform Services such as GCP, Azure or AWS. This will bring
 ability to enable quick trial of new features on the website, better security controls, global distribution of services and self-
 service DevOps capabilities for the growing software development team.
 
 ##### 6.  Sales and Marketing
 
-###### 6.1.  ###### Discovered Facts
+###### 6.1.  Discovered Facts
 
 Sales and Marketing related facts are gathered through analytics data _(_ _Appendix-B_ _)_ provided by ABCo. team and
 meetings with respective team members.
@@ -1057,7 +983,7 @@ engine marketing (SEM) and social media marketing, number of registered users ha
 for FTB has been relatively inconsistent over the past three years. Lowest CAC was $4.30 in 2019 and highest was
 $13.20 in 2018, but it is at $8.60 in 2021 _(_ _Appendix-B_ _)_ . These numbers are reasonable for the market if the company
 improves customer engagement to drive higher LTV per user.
-<CHUNK_SEPARATOR>
+
 Current SEO strategy is limited to brand search and certain category-based cashback searches. Introduction of
 coupons/promo code and LetyClub based user generated content is aligned with the strategy to improve SEO.
 
@@ -1078,25 +1004,20 @@ capabilities:
 
 -  Expansion of current team to continuously engage advertisers and their marketing managers in understanding the value of
 this affiliate marketing channel.
-
 -  Equip marketing managers at merchants with analytics data, canned reports and presentation templates to make them
 champions of marketing within their respective organizations.
-
 -  Conduct industry conferences inviting affiliate marketing managers from top merchants and future prospects to educate
 them and establish close relationships with the company.
-
 -  Drive merchant self-service portal development with speed and get continuous feedback from users to make it a strong
 value proposal for merchants.
-
 -  Improve analytics capabilities to correlate placement of merchants on website, cashback rate and user behavior to
 conversion rate.
 
 Company is not using data to drive personalization of user experience at this time. This is a great opportunity for
 improvement in the future to drive higher activity and increase LTV for the acquired users.
-
+<CHUNK_SEPARATOR>
 -  Use dynamic personalization techniques using data on user persona, customer segmentation, activity history, geo-targeting
 and store/brand interests.
-
 -  Using a combination of personalization, product discovery tools and engagement through user generated content, move
 user behavior from bottom of the shopping funnel towards higher level of Find and Discovery stages ( _Picture-1_ ).
 
@@ -1114,13 +1035,13 @@ ratio, so that there is enough commission budget from merchants to monetize the 
 
 ##### 7.  Competitive Analysis
 
-###### 7.1.  ###### Competitive Landscape
+###### 7.1.  Competitive Landscape
 
 _Picture-4: Competitive landscape for cost sensitive shopping_ _(_ _Appendix-E_ _)_ __
-<CHUNK_SEPARATOR>
-|Col1|Col2|lty el lty l od de ya ya rs. M Mo Lo Lo shoppe Driven re/Brand Powered Voucher ensitive cer Sto inTech/Ecom s Influen cost Opportunity Opportunity Direct of Threat loyalty Threat e e F th Landscap re captu to cash-back top competition offline the the to / work market by create Crowdsource globally increase for dominated shoppers. card-linked can compete UGC the power. card geographies. will is in programs direct and / exists model ecosystem payment Forums negotiating / sensitive locally models dependency not Community integrations that with ive business These are competition comprehensively those powered but loyalty loyalty models cost Opportunity fragmented, commission – it for Cashback merchant cashback shopping of level strong Multiple Fintech players pet loyalty loyalty macro A ms e th • • • • e o s ddres del C el o d a M Mo landscape iscount oyalty e L D etitiv ck / s p a Coupon com Cashb Opportunity Strength This|
-|---|---|---|
 
+
+|Col1|Col2|Compet it ive Landscape<br>This competitive landscape addresses the macro level competition that exists in the market to capture the loyalty of cost sensitive shoppers.<br>Strength Opportunity<br>Cashback Loyalty Model Community / Crowdsource / Threat<br>Direct Store/Brand Loyalty<br>Forums / UGC<br>Threat<br>FinTech/Ecom Powered Loyalty<br>• Cashback business model is globally<br>fragmented, but locally dominated by top<br>players for those geographies.<br>• Multiple loyalty models compete for the<br>Voucher Model<br>loyalty of cost sensitive shoppers. Opportunity<br>Opportunity<br>• Fintech powered payment card cash-back<br>Coupons / Discount Model<br>loyalty models are not direct competition to<br>cashback – These programs can work<br>comprehensively with card-linked offline Opportunity<br>shopping integrations Influencer Driven Model<br>• A strong loyalty ecosystem will create<br>merchant dependency and increase the<br>commission negotiating power.|
+|---|---|---|
 
 
 
@@ -1157,7 +1078,7 @@ posted links are clicked through, and transactions happen on the partner merchan
 received can be shared with the members who post the link and/or with the members who actually do the
 transaction. Slickdeals is a top player in the US market and Hotukdeals is in UK market using this model. Strength of
 this model is the community engagement and social aspect of the shopping.
-<CHUNK_SEPARATOR>
+
 **Store loyalty:** Starting from Amazon prime membership to store loyalty points, each retailer has a program to
 establish direct loyalty with the customer. This gives those merchants opportunity to bypass affiliate marketing
 channels like ABCo. wherever and whenever possible. Big merchants like Amazon, Walmart, AliExpress may decide
@@ -1187,33 +1108,25 @@ customer loyalty. Strength of this model is the ability to reach a niche, fashio
 this model is the dependency on the limited ability of the influencer network to give coverage for various product
 categories.
 
-###### 7.2.  ###### Opinions and Recommendations based on Competitive Analysis
+###### 7.2.  Opinions and Recommendations based on Competitive Analysis
 
 Based on this competitive analysis of the cost sensitive shopping options for consumers, we may state that:
 
 -  ABCo. has a good footing in the Cashback  business model and commands leadership position in the targeted geographies –
 Russia and Ukraine.
-
 -  Cashback model is a great loyalty model where ABCo. can continue to create an ecosystem of services around it to appeal
 to cost sensitive shoppers.
-
 -  Following business models are opportunity areas for ABCo. to expand:
 
 `o`  Expansion of Cashback model to offline / in-store shopping
-
 `o`  Forums and crowdsource model
-
 `o`  Influencer network based user acquisition and commerce activity
-
 `o`  Coupons and discounts
-
 -  Following models are hard to replicate with the current ABCo. business model, but the threat posed by these models need
 to be mitigated by strengthening the core cashback business model.
 
 `o`  Vouchers
-
 `o`  Direct shop / brand loyalty
-
 `o`  FinTech / Payment services rewards
 
 
@@ -1227,8 +1140,9 @@ based loyalty.
 ####### 7.2.1.  SWOT Analysis
 
 _Picture-5: SWOT Analysis for ABCo._
-<CHUNK_SEPARATOR>
-|Col1|Col2|business Amazon data-leak the as fine acquisition (perception with airlines affiliate product funnel stickiness as revenue e-commerce as issues budget or (such revenue model fraud model as shopping on through customer model such and programs scalability 3%) ysis dependency their & incidents, business personalization company crowdsource 8% conversion overall vs. sites of ad-spend business the model to (<1% cancellation & 5% loyalty loyalty create in marketing the marketing security the Opportunities early merchant from penetration business of Threats maximum marketing loyalty Anal Forums of merchant branded will stage to rate dynamic 4% of experience to technology for grows affect upto affiliate cashback case this reduced leading certain / looking and for for UGC affiliate to for cost with activity in may white-labeling optimization loyalty establishment low for especially through programs, at in consumer SWOT in may user market average scheme) actions inflection saturation merchant result is investment user customer entry violation per SEO Ecommerce as may Regulatory LTV press, ecosystem Increasing marketing Cashback kick-back to the Platform platform Industry Improve Expand Market Market Barrier Higher prime) Direct GDPR Weak Move Bad / •••••• ••• • ••••• •• for expansion experimentation Model talent trends cloud product existing developer the the market team light influence shoppers YoY of appealing team trend the agility of 85% development very changing find data Lack capturing management future Business around are the to programs to sensitive activity - with easy methodology not measures lacks capabilities to Weaknesses and Strengths $8.60/ftb but model to at adapt and software user limited infrastructure price integrations Current strong privacy merchants, the stack using loyalty to compliance by the test prevention able currently very at for consumer technology Mission – for personalization efficient Economics consumer A/B capability is is strategy network roadmap of rates team Website rate of budget is security and utilization fraud service cashback activity scope strong is Management efficient SEO Vision affiliate FTB Established Self-service Unit ecosystem debt: marketing stack light Website Product of of of for hosted Cohort Strong Clear Light Lack Lack Lack Tech Cost Very with CAC Top the •••••• •• • •••• •• ••|
+
+
+|Col1|Col2|Business Model / SWOT Anal ysis<br>Strengths Opportunities<br>• Clear Vision and Mission by the management team • Increasing average cashback rate from 5% to 8%<br>• Management team is able to adapt to changing market trends • Market establishment and penetration (<1% vs. 3%)<br>• CAC for FTB is efficient at $8.60/ftb • Move the consumer experience to early in the shopping funnel<br>• Strong Unit Economics – Current and future trend • Ecommerce market looking for marketing & customer acquisition<br>• Cohort activity rate is very strong at around 85% YoY • Platform white-labeling for branded loyalty sites such as airlines<br>• Established consumer loyalty model with appealing product • Expand merchant affiliate marketing ad-spend through product<br>ecosystem roadmap for the price sensitive shoppers ecosystem<br>• Top affiliate network integrations • Cashback optimization for maximum conversion and revenue<br>• Cost efficient technology stack and easy to find developer talent for • Improve SEO through UGC / Forums crowdsource model<br>the stack • Higher LTV per user with dynamic personalization & stickiness<br>Weaknesses Threats<br>• Product scope is currently limited to capturing the existing • Regulatory actions may affect loyalty business model (perception as<br>marketing budget of merchants, but not to influence the expansion kick-back scheme)<br>• Lack of SEO strategy • Industry inflection at certain stage of the overall e-commerce business<br>• Lack of strong consumer privacy programs • Bad press, especially in case of security incidents, fraud or data-leak<br>• Website security compliance measures are very light • GDPR violation may cost upto 4% of the company revenue as fine<br>• Tech debt: Website infrastructure lacks the agility of the cloud • Barrier to entry is low for this business model<br>hosted service • Direct customer loyalty to merchant loyalty programs (such as Amazon<br>• Self-service capability for software development team prime) may result in reduced merchant dependency on affiliate<br>• Light utilization of A/B test methodology - Lack of experimentation marketing programs, leading to cancellation of their budget<br>with cashback rates • Market saturation for affiliate marketing business model<br>• Lack of personalization using user activity data • Weak investment in technology will create scalability issues with the<br>• Very light fraud prevention capabilities platform as user activity grows|
 |---|---|---|
 
 

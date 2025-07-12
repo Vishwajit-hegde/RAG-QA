@@ -1,6 +1,6 @@
 ### pdf_parser.py - contains function for parsing a pdf into chunks of text. 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders.unstructured import UnstructuredFileLoader
+# from langchain_community.document_loaders.unstructured import UnstructuredFileLoader
 from typing import Any, List
 #from unstructured.cleaners.core import clean_extra_whitespace, group_broken_paragraphs
 import PyPDF2
@@ -12,8 +12,8 @@ _DOCUMENT = Any
 def pdf_to_text(
     file_paths: str | List[str],
     separators: List[str] = ["\n\n\n", "\n\n", "\n", " "],
-    chunk_size: int = 5000,
-    chunk_overlap: int = 500,
+    chunk_size: int = 20000,
+    chunk_overlap: int = 3000,
     save_as_txt: bool = True,
     txt_file_name: str = None,
     parse_func: str = 'pymupdf'

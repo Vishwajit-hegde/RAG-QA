@@ -4,15 +4,13 @@ from qa_generator import QAGenerator
 from answer_evaluator import Evaluator
 from mcq_generator import MCQGenerator
 
-with open("api_key.txt", "r") as f:
-    api_key = f.read()
 
 UPLOAD_FOLDER = 'Uploads/'
 ALLOWED_EXTENSIONS = {'pdf'}
 
 app = Flask(__name__)
 
-eval_obj = Evaluator(api_key)
+eval_obj = Evaluator()
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.secret_key = "Hello123"
@@ -42,10 +40,10 @@ def process_file():
         
         session['question_type'] = question_type
         if question_type=='verbal':
-            qa_obj = QAGenerator(file_path, api_key, llm_model_name= "meta-llama/Llama-2-70b-chat-hf")
+            qa_obj = QAGenerator(file_path)
             session['questions'] = qa_obj.get_questions_answers(num_questions)
         else:
-            mcq_obj = MCQGenerator(file_path,api_key,llm_model_name= "meta-llama/Llama-2-70b-chat-hf")
+            mcq_obj = MCQGenerator(file_path)
             session['questions'] = mcq_obj.generate_mcqs(num_questions)
 
         # Pass the first question to the template for display

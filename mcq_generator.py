@@ -1,18 +1,23 @@
 from pdf_parser import pdf_to_text
 from tqdm import tqdm
 from typing import Any, Dict, List
-import openai
+import google.generativeai as genai
+from dotenv import load_dotenv
+load_dotenv()
+import os
+from prompts import *
+
+api_key = os.environ.get("GEMINI_API_KEY")
+genai.configure(api_key=api_key)
+model = genai.GenerativeModel('gemini-2.5-pro')
 
 class MCQGenerator:
     def __init__(
         self, 
         pdf_paths, 
-        anyscale_api_key: str,
         separators: List[str] = ["\n\n\n", "\n\n", "\n", " "],
-        chunk_size: int = 2000,
+        chunk_size: int = 50000,
         chunk_overlap: int = 0,
-        llm_model_name: str = "meta-llama/Llama-2-7b-chat-hf",
-        llm_temperature: float = 0.5, 
         parse_func: str = 'pymupdf'
         ):
         # Load documents
@@ -28,15 +33,9 @@ class MCQGenerator:
             pdf_paths = [pdf_paths]
         self.response_txt_file_name = '_'.join([pdf_paths[i].split('/')[-1].replace('.pdf','') for i in range(len(pdf_paths))]) + '_llm_response.txt'
         self.mcq_txt_file_name = '_'.join([pdf_paths[i].split('/')[-1].replace('.pdf','') for i in range(len(pdf_paths))]) + '_MCQs.txt'
-
-        #LLM configs
-        self.llm_endpoint = "https://api.endpoints.anyscale.com/v1"
-        self.llm_model_name = llm_model_name
-        self.temperature = llm_temperature
-        self.anyscale_api_key = anyscale_api_key
         
 
-        self.qa_prompt_template = """Content: {}.\nBased on this content, create a {} multiple choice question and answer pair with 4 options and single correct answer to test the knowledge of the user in an exam. Response should be in the follwoing template:\nQuestion: <question> \nA) <option A> \nB) <option B> \n<option C> \n<option D> \nAnswer: <correct option>"""
+        self.qa_prompt_template = mcq_prompt_template
 
         #test_output = self.get_llm_response("Say 'Test.'")
 
@@ -52,9 +51,9 @@ class MCQGenerator:
             doc_text = doc.page_content
             doc_text = doc_text.replace('\n','  ')
             if qns_per_batch==1:
-                prompt = self.qa_prompt_template.format(doc_text, "single")
+                prompt = self.qa_prompt_template.format(content=doc_text, N="single")
             else:
-                prompt = self.qa_prompt_template.format(doc_text, f"set of {qns_per_batch}")
+                prompt = self.qa_prompt_template.format(content=doc_text, N=f"set of {qns_per_batch}")
             resp_text = self.get_llm_response(prompt)
             resp_texts.append(resp_text)
 
@@ -71,16 +70,10 @@ class MCQGenerator:
         return mcqs
     
     def get_llm_response(self, prompt):
-        self.client = openai.OpenAI(base_url = self.llm_endpoint,
-                                    api_key = self.anyscale_api_key)
-        chat_completion = self.client.chat.completions.create(
-        model=self.llm_model_name,
-        messages=[{"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt}],
-                temperature=self.temperature
-        )
-
-        return chat_completion.model_dump()['choices'][0]['message']['content']
+        response = model.generate_content(prompt)
+        with open("test_output.txt","w") as f:
+            f.write(response.text)
+        return response.text
     
     def convert_resp_text_to_mcqs(self,resp_text):
         resp_text_lines = resp_text.split('\n')
@@ -133,11 +126,11 @@ class MCQGenerator:
             if line.strip().startswith('D)'):
                 options['D'] = line.strip()[2:].strip()
 
-        if "A)" in a:
+        if "A" in a:
             correct_option = 'A'
-        elif "B)" in a:
+        elif "B" in a:
             correct_option = "B"
-        elif "C)" in a:
+        elif "C" in a:
             correct_option = "C"
         else:
             correct_option = "D"

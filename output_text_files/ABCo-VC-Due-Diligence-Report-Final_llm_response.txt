@@ -1,18 +1,22 @@
-  Q: What is the purpose of the Due Diligence Report prepared by Keyoor Consulting?
+Q: According to the "Summary of Opinions" in Table-1, which pillar of the business was ranked as the most mature, and which was ranked as needing the most improvement?
+A: The business pillar ranked as most mature (Rank #1) is the "Business Model," which is described as mature, proven, and scalable. The pillar needing the most improvement (Rank #5) is "Product & Technology."
 
-A: The purpose of the Due Diligence Report is to provide a comprehensive analysis of the business model, management team, product and technology, sales and marketing, and competitive landscape of a company in the affiliate marketing industry, in order to assess its potential for investment or acquisition. The report provides opinions and recommendations based on discovered facts, and aims to help investors or acquirers make informed decisions.
-SEPARATOR
-  Q: What is the estimated GMV for ABCo. in 2026, according to the company's projections?
-A: The estimated GMV for ABCo. in 2026 is $22B (high-end projection) or $9B (low-end estimate).
-SEPARATOR
-  Q: What is the estimated revenue of ABCo. for 2021, according to the provided data?
+Q: What are two key strategic recommendations made in the report to improve ABCo.'s management team structure?
+A: The report recommends introducing a "Chief Product Officer" role to handle Product and Technology, and bringing in someone with industry experience for a "board-level advisory role" to help guide the growth plan.
 
-A: The estimated revenue of ABCo. for 2021 is $50B, based on the projected revenue of $50M for 2021 and the estimated GMV of $1B for 2021.
+Q: Based on the "Key Business Metrics" table, what was ABCo.'s projected revenue for 2021, and what was its LTV / CAC ratio measured over 3 years?
+A: ABCo.'s projected revenue for 2021 was $50M, and its LTV / CAC ratio was 2.7x measured over 3 years.
 SEPARATOR
-  Q: What is the recommended strategy for ABCo. to overcome the industry inflection point and achieve sustainable growth?
+Q: The document describes the strategies of two major players in the cashback loyalty space, Rakuten and TopCashback. Explain the fundamental difference in their business models.
+A: The fundamental difference is their primary focus. TopCashback focuses on consumer loyalty by paying 100% of the merchant commission back to the customer, generating its own revenue from other sources like advertisements. In contrast, Rakuten's strength is its ability to negotiate higher commission rates from merchants by providing them with marketing performance assurance.
 
-A: The recommended strategy for ABCo. is to increase the sales budget to attract merchants onto the platform and establish the industry in emerging markets. This investment will involve strengthening the sales team, improved analytics capabilities, industry conferences, and regulatory lobbying. By doing so, ABCo. can create a stronger network effect and increase marketing commission rates by merchants, ultimately achieving sustainable growth.
-SEPARATOR
-  Q: What is the main factor that contributes to the positive trend in user engagement and increased revenue per user on the company's platform, according to the given analysis?
+Q: According to the SWOT analysis, what is one of ABCo.'s key weaknesses in its marketing/user engagement strategy, and what corresponding opportunity is identified to address it?
+A: One key weakness is the "Lack of SEO strategy." The document identifies a corresponding opportunity to "Improve SEO through UGC / Forums crowdsource model." Another valid answer would be the weakness of "Lack of personalization using user activity data," which could be addressed by the opportunity for "Higher LTV per user with dynamic personalization & stickiness."
 
-A: The main factor that contributes to the positive trend in user engagement and increased revenue per user on the company's platform is the increased investment in product innovation, which has led to a differentiator (moat) that makes it hard for competitors to copy, and has created additional revenue streams, resulting in an upward trend in commission percentage.
+Q: Beyond its core cashback model, the document identifies several business models as opportunities for ABCo. to expand into. Name two of these recommended expansion models.
+A: The four expansion opportunities mentioned are:
+1.  Expansion of the Cashback model to offline/in-store shopping
+2.  Forums and crowdsource model
+3.  Influencer network based user acquisition
+4.  Coupons and discounts
+(Any two of the above are correct).
